@@ -12,7 +12,8 @@ cnx <- dbConnect(dbDriver("PostgreSQL"),
                  user     = "_user_name", 
                  password = "_password");
 
-dbSendQuery(cnx, "SET search_path TO _user_name");
+dbSendQuery(cnx, "SET search_path TO home._user_name");
+
 
 
 data <- read.csv("_filepath",header=TRUE)
