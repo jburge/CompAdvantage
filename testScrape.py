@@ -5,7 +5,7 @@ import csv
 
 initialyear = 1968
 #finalyear = 1992;
-finalyear = 1970
+finalyear = 1992
 items = list(list())
 category = ''
 subcategory = ''
@@ -15,6 +15,11 @@ authors = list(list())
 url = ["http://www.informs-sim.org/wsc", "papers/prog", "sim.html"]
 
 for year in range(initialyear, finalyear):
+#add continue for missing year
+	if year == 1972:
+		continue
+
+
 	url_year = str(year % 100)
 	url_to_scrape = url[0] + url_year + url[1] + url_year + url[2]
 	r = requests.get(url_to_scrape)
@@ -66,4 +71,4 @@ for i in range(1, len(items)):
 f = open('test.csv', "wb")
 writer = csv.writer(f, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
 for item in items:
-	writer.writerow(item[0:3] + item[4])
+	writer.writerow(item[0:4] + item[4])
