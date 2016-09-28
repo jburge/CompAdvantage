@@ -1,0 +1,12 @@
+GRANT ALL ON winsim_author, 
+	winsim_article, 
+	winsim_abstract, 
+	winsim_category, 
+	winsim_subcategory, 
+	winsim_article_subcategory, 
+	winsim_author_article 
+TO cng,
+	shoffman,
+	cward,
+	sharan
+WITH GRANT OPTION
