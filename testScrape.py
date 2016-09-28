@@ -10,8 +10,6 @@ items = list(list())
 category = ''
 subcategory = ''
 
-titles = list()
-authors = list(list())
 url = ["http://www.informs-sim.org/wsc", "papers/prog", "sim.html"]
 
 for year in range(initialyear, finalyear):
@@ -26,8 +24,6 @@ for year in range(initialyear, finalyear):
 	data = r.text
 
 	soup = BeautifulSoup(data)
-	titlesSpan = soup.findAll("span", class_ = "paperTitle")
-	authorsSpan = soup.findAll("span", class_ = "author")
 	selected = soup.findAll(['span', 'h2','h3'])
 	print(len(selected))
 
