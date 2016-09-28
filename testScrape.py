@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import re
 import requests
 
+initialyear = 1968;
+finalyear = 1992;
 
 url = "http://www.informs-sim.org/wsc90papers/prog90sim.html"
 titles = list()
@@ -19,11 +21,12 @@ items = list(list())
 category = ''
 subcategory = ''
 
-print(selected[100])
+
 for line in selected:
 		try:
 			found = re.search('<h2>(.*?)</h2>', str(line)).group(1)
 			category = found
+			subcategory = ''
 		except AttributeError:
 			found =''
 
