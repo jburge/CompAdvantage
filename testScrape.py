@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import re
 import requests
+import csv
 
 initialyear = 1968
 #finalyear = 1992;
@@ -59,6 +60,10 @@ for year in range(initialyear, finalyear):
 			except AttributeError:
 				found = ''
 
-	print(len(titles))
-	for i in range(1, len(items)):
-		print(str(items[i]))
+for i in range(1, len(items)):
+	print(str(items[i]))
+
+f = open('test.csv', "wb")
+writer = csv.writer(f, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
+for item in items:
+	writer.writerow(item)
