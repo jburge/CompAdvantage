@@ -66,4 +66,4 @@ for i in range(1, len(items)):
 f = open('test.csv', "wb")
 writer = csv.writer(f, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
 for item in items:
-	writer.writerow(item)
+	writer.writerow(item[0:3] + item[4])
