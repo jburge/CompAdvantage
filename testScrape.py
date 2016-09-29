@@ -4,15 +4,14 @@ import requests
 import csv
 
 initialyear = 1968
-#finalyear = 1992;
-finalyear = 1992
+finalyear = 1996
 items = list(list())
 category = ''
 subcategory = ''
 
 url = ["http://www.informs-sim.org/wsc", "papers/prog", "sim.html"]
 
-for year in range(initialyear, finalyear):
+for year in range(initialyear, finalyear +1):
 #add continue for missing year
 	if year == 1972:
 		continue
