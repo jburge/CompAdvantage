@@ -46,8 +46,12 @@ for year in range(initialyear, finalyear):
 				found = re.search('"author">(.*?)</span>', str(line)).group(1)
 				found = found.replace(' and ', ',')
 				found = found.split(',')
+#				for i in range(0, len(found)):
+#					if (found[i] == "?Jr.?"):
+#						found[i-1] += " " + found[i]
+#						found[i] = ""
 				found = filter(None, found)
-	#			authors.append(found)
+						#			authors.append(found)
 				item  = [category, subcategory, title, year, found]
 				items.append(item)
 			except AttributeError:
@@ -67,4 +71,4 @@ for i in range(1, len(items)):
 f = open('test.csv', "wb")
 writer = csv.writer(f, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
 for item in items:
-	writer.writerow(item[0:4] + item[4])
+	writer.writerow(item[0:4] + [str(item[4])[1:-1]])
