@@ -1,3 +1,9 @@
+CREATE TABLE winsim_university(
+	university_id INT NOT NULL,
+	name text,
+	PRIMARY KEY (university_id)
+)
+
 CREATE TABLE winsim_author(
 	author_id INT NOT NULL,
 	name text,
@@ -49,11 +55,6 @@ CREATE TABLE winsim_abstract(
 	FOREIGN KEY (article_id) REFERENCES winsim_article(article_id)
 )
 
-CREATE TABLE university(
-	university_id INT NOT NULL,
-	name text,
-	PRIMARY KEY (university_id)
-)
 
 
 
