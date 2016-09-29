@@ -1,10 +1,4 @@
-GRANT ALL ON winsim_author, 
-	winsim_article, 
-	winsim_abstract, 
-	winsim_category, 
-	winsim_subcategory, 
-	winsim_article_subcategory, 
-	winsim_author_article 
+GRANT ALL ON SCHEMA jburge 
 TO cng,
 	shoffman,
 	cward,
