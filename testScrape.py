@@ -46,10 +46,10 @@ for year in range(initialyear, finalyear):
 				found = re.search('"author">(.*?)</span>', str(line)).group(1)
 				found = found.replace(' and ', ',')
 				found = found.split(',')
-#				for i in range(0, len(found)):
-#					if (found[i] == "?Jr.?"):
-#						found[i-1] += " " + found[i]
-#						found[i] = ""
+				for i in range(0, len(found)):
+					if (found[i] == " Jr."):
+						found[i-1] += " " + found[i]
+						found[i] = ""
 				found = filter(None, found)
 						#			authors.append(found)
 				item  = [category, subcategory, title, year, found]

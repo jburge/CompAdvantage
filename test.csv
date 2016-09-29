@@ -78,9 +78,9 @@ Simulation and Ecology,,Modeling a Weather Environment,1968,'Christopher J. Gree
 Simulation and Ecology,,A Discrete Bio Simulation - The Population Regulation of Turtles,1968,'Keith P. Tognetti'
 Simulation and Ecology,,Vegetation-Environment Interactions,1968,'J.S. Armstrong'
 Simulation Languages,,QUICKSIM - A Block Structured Simulation Language Written in SIMSCRIPT,1969,'David G. Wearner'
-Simulation Languages,,"PA3 - A General Purpose, Time-Shared Problem Analysis Language",1969,"'D. G. Ebeling', 'E. G. Hurst', ' Jr.'"
+Simulation Languages,,"PA3 - A General Purpose, Time-Shared Problem Analysis Language",1969,"'D. G. Ebeling', 'E. G. Hurst  Jr.'"
 Simulation Languages,,SOLPASS - A Simulation Oriented Language Programming and Simulation System,1969,"'James Armstrong', ' Horst E. Ulfers', ' Donald J. Miller', 'Harry C. Page'"
-Simulation Analysis,,Statistical Methods for Improving Simulation Efficiency,1969,"'Donald P. Gaver', ' Jr.'"
+Simulation Analysis,,Statistical Methods for Improving Simulation Efficiency,1969,'Donald P. Gaver  Jr.'
 Simulation Analysis,,Computer Graphics for Simulation Problem-Solving,1969,'Thomas E. Bell'
 Manufacturing Applications,,PROSIM V - A Production System Simulator,1969,'Joe H. Mize'
 Manufacturing Applications,,"A Generalized Manufacturing Line Simulator System for Production, Equipment, and Manpower Planning",1969,"'G. V. Raju', 'A. Bendazzi'"
@@ -143,9 +143,9 @@ Maintenance and Reliability Models,,A Stochastic Network Approach to Test and Ch
 Maintenance and Reliability Models,,Digital Simulation of Maintenance Service Operations in the Computer Industry,1970,'Steven R. Dzubow'
 Simulation Analysis,,Stochastic Sensitivity Analysis of Linear Programs by Simulation Techniques,1970,'Joseph L. Balintfy'
 Simulation Analysis,,The Direct Simulation Method - An Alternative to the Monte Carlo Method,1970,'Dietrich Fischer'
-Simulation Analysis,,Monte Carlo Techniques for Stochastic Network Analysis,1970,"'John M. Burt', ' Jr.', 'Mark B. Garman'"
+Simulation Analysis,,Monte Carlo Techniques for Stochastic Network Analysis,1970,"'John M. Burt  Jr.', 'Mark B. Garman'"
 Simulation Analysis,,An Efficient Procedure for Locating the Optimal Simular Response,1970,'G. Arthur Mihram'
-Inventory and Distribution,,GPSS Study of Work-In-Process Inventory,1970,"'H. L. Bowen', ' Jr.'"
+Inventory and Distribution,,GPSS Study of Work-In-Process Inventory,1970,'H. L. Bowen  Jr.'
 Inventory and Distribution,,Application of the GERTS II Simulator in the Industrial Environment,1970,"'Gary E. Whitehouse', 'Kenneth I. Klein'"
 Inventory and Distribution,,Analysis of Sourcing and Disaster Planning,1970,'Gary P. Carlson'
 Inventory and Distribution,,Dynamic Simulation Model for Planning Physical Distribution Systems: Discussion of the Computer Model,1970,"'Donald J. Bowersox', ' Edward J. Marien', 'Omar Keith Helferich'"
@@ -161,10 +161,10 @@ Simulation Languages,,Experience with the Extendable Computer System Simulator,1
 Simulation Languages,,The BOSS Simulator - An Introduction,1970,'Paul F. Roth'
 Simulation Languages,,Incremental Modeling in the Forward Direction,1970,'Charles W. Turk'
 Simulation Languages,,A Complete Interactive Simulation Environment GPSS/360-Norden,1970,"'Julian Reitman', ' Donald Ingerman', ' Jerry Katzke', ' Jon Shapiro', ' Kenneth Simon', 'Burton Smith'"
-Data Base/Communications,,District Office Network Simulator: Computer Simulation of the Characteristics of the Social Security Administration's District Office Operations,1970,"'Barbara S. Haskins', 'John W. Fraser', ' Jr.'"
-Data Base/Communications,,A Simulation Study of Data Transfer Between Two Asynchronous Devices: An Example of the Use of GPSS in Computer Systems Design,1970,"'William T. McClelland', ' Jr.', 'Kathleen M. Rutter'"
+Data Base/Communications,,District Office Network Simulator: Computer Simulation of the Characteristics of the Social Security Administration's District Office Operations,1970,"'Barbara S. Haskins', 'John W. Fraser  Jr.'"
+Data Base/Communications,,A Simulation Study of Data Transfer Between Two Asynchronous Devices: An Example of the Use of GPSS in Computer Systems Design,1970,"'William T. McClelland  Jr.', 'Kathleen M. Rutter'"
 Data Base/Communications,,Simulation and Mathematical Modeling of an On-Line Accounting System,1970,'Jack E. Shemer'
-Data Base/Communications,,Application of Simulation to Design of Classification Systems,1970,"'Robert DeMoyer', ' Jr.', 'John I. Fellers'"
+Data Base/Communications,,Application of Simulation to Design of Classification Systems,1970,"'Robert DeMoyer  Jr.', 'John I. Fellers'"
 Materials Handling,,Continuous Simulation of an Internal Recycle Process,1970,"'Lowell E. Hackbarth', 'Francis M. Sand'"
 Materials Handling,,Simulation of a Distribution Center (Warehouse) Central Conveyor System,1970,'D. Grossman'
 Materials Handling,,Analysis and Design of a Material Distribution Center Conveyor Network Through GPSS Simulation,1970,'N. N. Tendolkar'
@@ -179,7 +179,7 @@ CLASS - Composite Language Approach for System Simulation,,CLASS - Composite Lan
 ,,Simulation of a Two-Man Interaction System,1971,"'D. S. Kochhar', 'B. L. Wills'"
 ,,The Use of Monte Carlo Simulation to Reflect the Impact Human Factors Can Have on Systems Performance,1971,'Gerald P. Chubb'
 ,,Reliability of Computer-Communication Networks,1971,"'Richard Van Slyke', 'Howard Frank'"
-,,Resource Allocation in Stochastic Project Networks,1971,"'John M. Burt', ' Jr.'"
+,,Resource Allocation in Stochastic Project Networks,1971,'John M. Burt  Jr.'
 ,,Simulating Large Flow Networks in Underground Media,1971,"'Gerald N. Pitts', 'Paul B. Crawford'"
 ,,The Capital Asset Pricing Simulator,1971,"'David E. Besenfelder', 'Wayne N. Wagner'"
 ,,Commodity Market Dynamics: A System Analysis of Fundamental Relationship,1971,'Robert D. Landel'
@@ -194,7 +194,7 @@ CLASS - Composite Language Approach for System Simulation,,CLASS - Composite Lan
 ,,An Application of Simulation To the Improvement of Fork Truck Operations,1971,'Michael L. Morrison'
 ,,An Application of Simulation to Compare Production Line Configuration With Failures and Repairs,1971,"'F. Paul Wyman', 'Lawrence E. Moberly'"
 ,,Priority Scheduling Rules For a Combined Production Inventory System: A Simulation Analysis,1971,'William L. Berry'
-,,Simulation of the Four-Way and Two-Way Stop Sign Controlled Intersections,1971,"'J. Wesley Barnes', 'Robert M. Crisp', ' Jr.'"
+,,Simulation of the Four-Way and Two-Way Stop Sign Controlled Intersections,1971,"'J. Wesley Barnes', 'Robert M. Crisp  Jr.'"
 ,,Simulation - An Application In Marine Transportation Scheduling,1971,"'Ralph Forsaith', 'George Hvidsten'"
 ,,A Study of Responsive Electronic Vehicular Instrumentation,1971,'Joseph S. Nadan'
 ,,A Computer Simulation Model of Driver Vision while Merging from a Freeway On-Ramp,1971,"'Kumares C. Sinha', 'Philip H. DeCabooter'"
@@ -204,7 +204,7 @@ CLASS - Composite Language Approach for System Simulation,,CLASS - Composite Lan
 ,,Simulating with Simscript,1971,'Yen W. Chao'
 ,,A Network Model of the U. S. Air Transportation System,1971,"'Aurel N. de Hollan', ' Arthur S. Priver', 'Andres Zellweger'"
 ,,A Simulation Study for the Design of an Air Terminal Building,1971,"'Samuel Eilon', 'Stephen Mathewson'"
-,,A Route-Oriented Simulation System For ATC Studies,1971,"'W. R. Sutherland', ' T. H. Myer', ' E. L. Thomas', 'D. A. Henderson', ' Jr.'"
+,,A Route-Oriented Simulation System For ATC Studies,1971,"'W. R. Sutherland', ' T. H. Myer', ' E. L. Thomas', 'D. A. Henderson  Jr.'"
 ,,Applications of Computer-Drawn Motion Pictures To Visualization and Validation of Airport Simulations,1971,'Everett S. Joline'
 ,,Use of Performance Analysis Statistics in Computer System Simulation,1971,'P. R. Katonak'
 ,,Modeling a Responsive Message Exploitation System,1971,"'John C. Mason III', 'Patrick B. Sampey'"
@@ -227,7 +227,7 @@ CLASS - Composite Language Approach for System Simulation,,CLASS - Composite Lan
 ,,The Development and Design of the Surgical Scheduler's Hospital Management Game Using GASP II,1971,"'Richard O. Hoffman', 'Paul E. Torgersen'"
 ,,Vancouver Regional Health Planning Model,1971,"'J. Milsum', ' D. Uyeno', ' I. Vertinsky', 'H. Will'"
 ,,CLASS: Composite Language Approach for System Simulation (A Tutorial),1971,'Harold G. Hixson'
-,,GPDS - A New Simulation Language,1971,"'Philip S. Becker', ' Jr.'"
+,,GPDS - A New Simulation Language,1971,'Philip S. Becker  Jr.'
 ,,Time Flow Mechanisms For Use in Digital Logic Simulation,1971,"'Stephen A. Szygenda', ' Cliff W. Hemming', 'John M. Hemphill'"
 ,,A Corporate Planning Model for a New Business Venture,1971,'Joel S. Greenberg'
 ,,Simulation Model for a Complex Production/Distribution Network,1971,"'Stuart Dean', ' Ralph Forsaith', 'George Hvidsten'"
@@ -236,7 +236,7 @@ CLASS - Composite Language Approach for System Simulation,,CLASS - Composite Lan
 ,,Application of Simulation Techniques to Scheduling and Monitoring of Computer Installations,1971,"'Leo J. Boelhouwer', 'Dennis M. Gilbert'"
 Simulation's Role in Project Development,,Application of Simulation Techniques to Scheduling and Monitoring of Computer Installations,1973,'D. J. Dunne'
 Simulation's Role in Project Development,,Application of Simulation Techniques to Scheduling and Monitoring of Computer Installations,1973,'T. A. Bratz'
-Behavior and Learning Models,,Towards a Simulation Model of Motivation and Adjustment,1973,"'F. Paul Wyman', ' John W. Slocum', ' Jr.', 'Richard R. Reed'"
+Behavior and Learning Models,,Towards a Simulation Model of Motivation and Adjustment,1973,"'F. Paul Wyman', ' John W. Slocum  Jr.', 'Richard R. Reed'"
 Behavior and Learning Models,,Simulation of an Individual Making Decisions Under Uncertainty,1973,"'Francis D. Tuggle', ' F. Hutton Barron', 'Richard O. Day'"
 Behavior and Learning Models,,Identification of Viable Biological Strategies for Pest Management by Simulation Studies,1973,'W. W. Menke'
 Simulation Methodology I,,Use of Simulation to Test the Validity and Sensitivity of an Analytical Model,1973,'Prosper M. Bernard'
@@ -303,7 +303,7 @@ Maintenance and Reliability,,Incorporation of False Alarms in Simulations of Ele
 SIMSCRIPT,,Incorporation of False Alarms in Simulations of Electronic Receivers,1973,'F. Paul Wyman'
 Paper Fair,,"The Daughter of Celia, the French Flag, and the Firing Squad",1973,"'G.T. Herman', 'W.H. Liu'"
 Paper Fair,,An Application of Simulation to Debugging and Maintaining a Computer Network System,1973,"'M.W. Collins', 'D.G. Harder'"
-Paper Fair,,An Experimental Evaluation of Monte Carlo Simulation in MIS Project Decisions,1973,"'John B. Wallace', ' Jr.'"
+Paper Fair,,An Experimental Evaluation of Monte Carlo Simulation in MIS Project Decisions,1973,'John B. Wallace  Jr.'
 Paper Fair,,Robustness and Analytic Computer System Models,1973,"'R. Vavra', 'W.R. Franta'"
 Paper Fair,,A Model for Simulating and Evaluating the Response of a Management Information System,1973,"'Hamed Kamal Eldin', 'David Leon Shipman'"
 Paper Fair,,Trace Driven System Modeling,1973,'J. F. Grant'
@@ -324,7 +324,7 @@ Paper Fair,,Distribution Combining Program,1973,'Oldrich A. Vasicek'
 Paper Fair,,Mathrisk: A Management Tool for the Analysis of Investment Decisions,1973,'Stephen L. Robinson'
 Paper Fair,,Mathnet: A Representation and Analysis Technique for Stochastic Networks,1973,'Stephen L. Robinson'
 Paper Fair,,A Risk-Return Simulation Model of Commodity Market Hedging Strategies,1973,"'Robert E. Markland', 'Robert J. Newett'"
-Paper Fair,,Using the Computer to Plan Production in a Flow Shop,1973,"'Dana B. Hopkins', ' Jr.'"
+Paper Fair,,Using the Computer to Plan Production in a Flow Shop,1973,'Dana B. Hopkins  Jr.'
 Paper Fair,,A Simulation Study of Basic Oxygen Furnace Operations,1973,"'C. Jain', 'Phil McDermott'"
 Paper Fair,,Autonetics Planned Production Line Evaluation Simulator (APPLES),1973,'P.J. Moore'
 Paper Fair,,A Performance Evaluation Technique for the Measurement of a Facility's Ability to Process the Proper Jobs,1973,"'J.J. Babiel', 'B.Z. Duhl'"
@@ -356,8 +356,8 @@ Data Base / Data Communications,,A Large-Scale Optical Character Recognition Sys
 Data Base / Data Communications,,A Simulation Model for Dynamic File Management,1974,"'Lawrence L. Rose', ' Malcolm A. Gotterer', 'Jack C. Hayya'"
 Data Base / Data Communications,,A Model for the Evaluation of Large Scale Data Retrieval Systems,1974,'Kenneth F. Siler'
 Data Base / Data Communications,,A Simulation Model to Aid in the Design and Tuning of Hierarchical Databases,1974,'Wayne A. Hall'
-Stock Market and Commodities,,Systems Analysis and Modeling: A Learning Experience Based on Commodity Futures Trading,1974,"'Robert D. Landel', 'Charles C. Chewning', ' Jr.'"
-Stock Market and Commodities,,A Simulation of a Constrained Securities Market,1974,"'Paul J. Swanson', ' Jr.', 'Robert J. Graham'"
+Stock Market and Commodities,,Systems Analysis and Modeling: A Learning Experience Based on Commodity Futures Trading,1974,"'Robert D. Landel', 'Charles C. Chewning  Jr.'"
+Stock Market and Commodities,,A Simulation of a Constrained Securities Market,1974,"'Paul J. Swanson  Jr.', 'Robert J. Graham'"
 Stock Market and Commodities,,A Stock Market Simulation Model for Pricing Asset Value Guarantees,1974,'Kenneth B. Frohlich'
 Urban Planning,,Social and Spatial Mobility and Urban Dynamics,1974,'Jacob Belkin'
 Urban Planning,,A Simulation Model for Evaluating Bus Routes and Schedules in Small Cities,1974,'John M. Gleason'
@@ -395,7 +395,7 @@ Marketing Systems,,Market Strategy via Simulation,1974,'K. Roscoe Davis'
 Marketing Systems,,PLAN*IT: Simulation Applied in a Marketing Decision System,1974,"'Stanton G. Cort', 'Luis V. Dominguez'"
 Marketing Systems,,Industrial Dynamics Simulation of the Effects of Advertising on Production-Distribution System,1974,"'C. L. Hwang', ' Reza Shojalashkari', 'L. T. Fan'"
 Marketing Systems,,Horizons of Simulation and Marketing Management,1974,'William G. Browne'
-Marketing Systems,,A Normative Simulation for Airline Marketing Planning,1974,"'Randall L. Schultz', 'Joe A. Dodson', ' Jr.'"
+Marketing Systems,,A Normative Simulation for Airline Marketing Planning,1974,"'Randall L. Schultz', 'Joe A. Dodson  Jr.'"
 Computer Job Sceduling,,Schedule-Constrained Job Scheduling in a Multiprogrammed Computer System,1974,'Thomas Murray Cook'
 Computer Job Sceduling,,A Language Orientation for the Discrete Event Modeling of Applications Programs and Operating Systems,1974,'Leo J. Cohen'
 Computer Job Sceduling,,Simulation of Computer Systems Using Automatically Generated Load Descriptions,1974,'Herbert D. Schwetman'
@@ -438,7 +438,7 @@ Workshop Session 5,,ORLY: A Digital Computer Flight Simulator,1974,"'Dan Cohen',
 Workshop Session 5,,A Probabilistic Evaluation of Fallout Effects Associated with Nuclear Air Bursts,1974,'Robert V. Fultyn'
 Workshop Session 5,,Resource Simulator for an F-4E Air Force Training Squadron,1974,"'A. J. Parker', ' Timothy I. Chen', 'John Duncan'"
 Workshop Session 5,,Computer Simulation of the NASA Water Vapor Electrolysis Reactor,1974,'Allan M. Bloom'
-Workshop Session 5,,AEGIS Mission Performance Simulation (AMPS),1974,"'Willis A. Soper', ' Jr.'"
+Workshop Session 5,,AEGIS Mission Performance Simulation (AMPS),1974,'Willis A. Soper  Jr.'
 Late Paper,,Mutual Fund Performance - A Reconsideration,1974,'Manak C. Gupta'
 Languages for Simulation 1,,An Improved Simulation Language Approach for Large Scale Simulation and Time Critical Operation,1975,"'Willard M. Holmes', 'Alex C. Jolly'"
 Languages for Simulation 1,,Business Oriented Simulation System (B.O.S.S.): A Simulation Language Based on Cobol,1975,'Andreas Philippakis'
@@ -516,7 +516,7 @@ Manufacturing Applications,,"A GPSS-V Model of a Large, High-Volume Machining Li
 Manufacturing Applications,,A Simulation of the Silicothermic Production of Magnesium,1975,"'Gerald S. Mueller', ' Mohamed I. El-Kashab', 'John R. Wynnyckyj'"
 Languages for Simulation II,,INS: Integrated Network Simulator,1975,"'Stephen D. Roberts', 'Thomas E. Sadlowski'"
 Languages for Simulation II,,Multiplex Systems Simulator,1975,"'J. E. Camp', 'J. A. Garcia'"
-Languages for Simulation II,,High-Level Language for Scientific and Engineering Graph Generation,1975,"'Martin H. Dost', ' Wai Mun Syn', 'Nolan N. Turner', ' Jr.'"
+Languages for Simulation II,,High-Level Language for Scientific and Engineering Graph Generation,1975,"'Martin H. Dost', ' Wai Mun Syn', 'Nolan N. Turner  Jr.'"
 Simulation of Computer Systems II,,GPSS Simulation of a Proposed Mini-Computer System,1975,"'Allen C. Schuermann', 'Everett L. Johnson'"
 Simulation of Computer Systems II,,Real Time Minicomputer Simulation,1975,"'Jacob Rootenberg', 'Lester Tennenbaum'"
 Simulation of Computer Systems II,,Simulation-Aided Evaluation of Remote Batch Equipment,1975,'T. W. Dudley'
@@ -527,11 +527,11 @@ Urban Transportation Problems,,Application of Simulation Models in Traffic Manag
 Transportation Operations,,A Railroad Classification Yard Simulation Model,1975,"'Paul L. Tuan', 'H. Steven Procter'"
 Pipeline and Hydrodynamic Systems,,The Response Equation Method: A New Role for Simulation of Environmental Systems,1975,'Robert Willis'
 Pipeline and Hydrodynamic Systems,,A Generalized Computer Program for Steady-State Simulation of Compressible Flow in Pipelines,1975,'Wen-Ching Yu'
-Pipeline and Hydrodynamic Systems,,"Wissahickon Creek, Pennsylvania: A Case Study in the Application of Storm (Storage, Treatment, Overflow, and Runoff Model)",1975,"'William M. Fitch', ' John L. Matticks', 'Robert S. Taylor', ' Jr.'"
+Pipeline and Hydrodynamic Systems,,"Wissahickon Creek, Pennsylvania: A Case Study in the Application of Storm (Storage, Treatment, Overflow, and Runoff Model)",1975,"'William M. Fitch', ' John L. Matticks', 'Robert S. Taylor  Jr.'"
 Pipeline and Hydrodynamic Systems,,A Discrete Deterministic Pipeline Flow Simulator with On-line Scheduler Interface to Solve Dynamic Batch Scheduling Problems,1975,'Charles A. DeFelice'
 Pipeline and Hydrodynamic Systems,,Some Problems in the Simulations of Very Large Hydrodynamic Systems,1975,'A. B. Nelson'
 Simulation of Dynamic Systems,,Engineering Modeling (Where Practise Has to Equate with Theory),1975,'William A. Farrand'
-Simulation of Dynamic Systems,,Dynamic Simulation of a Multicomponent Distillation Column,1975,"'Wen-Ching Yu', ' A. E. Johnson', ' Jr.', 'J. A. Planchard'"
+Simulation of Dynamic Systems,,Dynamic Simulation of a Multicomponent Distillation Column,1975,"'Wen-Ching Yu', ' A. E. Johnson  Jr.', 'J. A. Planchard'"
 Simulation of Dynamic Systems,,Tolerances in Dynamic Systems,1975,"'Donald R. Falkenburg', 'David H. Evans'"
 Simulation of Dynamic Systems,,A New Computer Method of Calculation of Eigenvalues and Eigenfunctions for the Schrodinger's Equation,1975,"'George Morales', 'Robert G. McIntyre'"
 Simulation Methodology II,,Initial Condition Bias and Experimental Design in Queueing Simulations,1975,"'Mark A. Turnquist', 'Joseph M. Sussman'"
@@ -548,7 +548,7 @@ Fundamental Tutorial Sequence,Introduction to Simulation Languages,Introduction 
 Fundamental Tutorial Sequence,Introduction to Simulation Languages,Computer Aided Programming for Simulation (CAPS) Tutorial,1976,'G. K. Hutchinson'
 Fundamental Tutorial Sequence,Introduction to Simulation Languages,SIMSCRIPT II.5 Tutorial,1976,'E. C. Russell'
 Advanced Practitioners Sequence,Statistical Analysis of Simulation Output Data,A Tutorial on the Regenerative Approach and Discrete-Event Simulations,1976,"'Michael A. Crane', 'Austin J. Lemoine'"
-Advanced Practitioners Sequence,Statistical Analysis of Simulation Output Data,The Problem of the Initial Transient in Digital Computer Simulation,1976,"'A. V. Gafarian', ' C. J. Ancker', ' Jr.', 'T. Morisaku'"
+Advanced Practitioners Sequence,Statistical Analysis of Simulation Output Data,The Problem of the Initial Transient in Digital Computer Simulation,1976,"'A. V. Gafarian', ' C. J. Ancker  Jr.', 'T. Morisaku'"
 Advanced Practitioners Sequence,Statistical Analysis of Simulation Output Data,Confidence Intervals in Discrete Event Simulation: A State-of-the-Art Survey,1976,'Averill M. Law'
 Advanced Practitioners Sequence,Statistical Basis For Selection Among Alternatives,A Bayesian Approach to the Design of Simulation Experiments,1976,"'Mark M. Turnquist', 'Joseph M. Sussman'"
 Advanced Practitioners Sequence,Statistical Basis For Selection Among Alternatives,Statistics in Simulation: How to Design for Selecting the Best Alternative,1976,'Edward J. Dudewicz'
@@ -587,8 +587,8 @@ Research and Application Sessions,Health Systems,Computer Simulation of a Hospit
 Research and Application Sessions,Computer System Simulation Applications,A GPSS Model of a M.V.S. System,1976,'Ted Pollak'
 Research and Application Sessions,Computer System Simulation Applications,An Application of the Multi-Purpose System Simulation (MPSS) Model to the Monitor and Control Display System (MACDS) at the National Aeronautics and Space Administration (NASA) Goddard Space Flight Center (GSFC),1976,"'Fred W. Mill', ' George N. Krebs', 'Erwin S. Strauss'"
 Research and Application Sessions,Computer System Simulation Applications,On Obtaining Trace Load and Performance Data in a University Environment,1976,'Charles M. Shub'
-Research and Application Sessions,Management of Agricultural Production through Simulation,Simulation in Crop Ecosystem Management,1976,"'Robert M. Peart', 'John R. Barrett', ' Jr.'"
-Research and Application Sessions,Management of Agricultural Production through Simulation,Systematic Environmental Data Reduction with GASP IV,1976,"'Gregory A. Wong', ' Stephen J. Mahler', ' John R. Barrett', ' Jr.', 'Larry F. Huggins'"
+Research and Application Sessions,Management of Agricultural Production through Simulation,Simulation in Crop Ecosystem Management,1976,"'Robert M. Peart', 'John R. Barrett  Jr.'"
+Research and Application Sessions,Management of Agricultural Production through Simulation,Systematic Environmental Data Reduction with GASP IV,1976,"'Gregory A. Wong', ' Stephen J. Mahler', ' John R. Barrett  Jr.', 'Larry F. Huggins'"
 Research and Application Sessions,Management of Agricultural Production through Simulation,Evaluation of Solar Air Heating Collection Systems for Use in Grain Drying Using Computer Simulation,1976,"'George E. Meyer', ' M. A. Sabbah', ' H. M. Keener', 'R. B. Curry'"
 Research and Application Sessions,Management of Agricultural Production through Simulation,Converting Models in FORTRAN IV to Enable Continuous Systems Monitoring Program (CSMP) Execution Control,1976,"'Myron D. Paine', ' Fred Wits', 'Frank Crow'"
 Research and Application Sessions,Corporate Planning Models,The New York Times Newspaper Planning Model,1976,'Leonard Forman'
@@ -650,12 +650,12 @@ Advanced Practitioner,Models and Planning,An Inventory Management Simulation Gam
 Advanced Practitioner,Models and Planning,Comparing Strategies for Effecting Social Change in Large Organizations by Means of Modeling,1977,'Richard L. Justice'
 Advanced Practitioner,Models and Planning,Personnel Planning Databases and Modeling: A Software Approach,1977,'Luis B. Boza'
 Advanced Practitioner,Environmental and Ecological Systems,Hydrodynamic Simulation of Movement of Larval Fishes in Western Lake Erie and Their Vulnerability to Power Plant Entertainment,1977,"'John F. Paul', 'Richard L. Patterson'"
-Advanced Practitioner,Environmental and Ecological Systems,Simulating the Environmental Impacts of a High Voltage Transmission Line,1977,"'Robert H. Giles', ' Jr.'"
+Advanced Practitioner,Environmental and Ecological Systems,Simulating the Environmental Impacts of a High Voltage Transmission Line,1977,'Robert H. Giles  Jr.'
 Advanced Practitioner,Environmental and Ecological Systems,"""conomic Effects of Fluctuations in Catches and Population Levels, Upon a Population of Alaska King Crab",1977,"'Philip L. Katz', ' James W. Balsiger', ' Robert H. Schappelle', 'Thomas R. Spinker'"
 Advanced Practitioner,"GPSS, New Ideas and Enhancements",An Interactive Debugging Facility for GPSS,1977,'James O. Henriksen'
 Advanced Practitioner,"GPSS, New Ideas and Enhancements",On the Precision of Probabilistic Process Generators in GPSS,1977,'Julian M. Scher'
 Advanced Practitioner,Health Care Systems,A Simulation Model of the Primary Health Care System of Indiana,1977,"'Charles Standridge', ' Charles Macal', ' A. Alan B. Pritsker', ' Harry Delcher', 'Raymond Murray'"
-Advanced Practitioner,Health Care Systems,Resource Allocations and other Managerial Uses of a General Simulation Model for Outpatient Clinics,1977,"'Edward F. Stafford', ' Jr.', 'F. Paul Wyman'"
+Advanced Practitioner,Health Care Systems,Resource Allocations and other Managerial Uses of a General Simulation Model for Outpatient Clinics,1977,"'Edward F. Stafford  Jr.', 'F. Paul Wyman'"
 Advanced Practitioner,Health Care Systems,Simulation Analysis of an Automated Hospital Materials Handling System,1977,"'John J. Marsh', ' III', 'Ralph W. Swain'"
 Advanced Practitioner,Behavioral Systems,Computer Simulation of Organizational Choice Processes Under Conditions of Ambiguity and Conflict - The Case of West German Universities,1977,'Holger Franck'
 Advanced Practitioner,Behavioral Systems,Dynamics of the Johart Window: A Simulation,1977,'L. E. Shirland'
@@ -784,7 +784,7 @@ Applications,Military,Star:  Simulation of Tactical Alternative Responses,1978,'
 Applications,Transportation,A Simulation Study of Operational Procedures for Increasing the Efficiency of Inland Waterways Transportation,1978,"'Kiran J. Desai', 'Jerry Prock'"
 Applications,Transportation,Simulation of a Rail Rapid Transit System at Several Levels of Detail,1978,"'Bjorn Conrad', ""Donato A. D'Esopo"""
 Applications,Corporation Planning Models,Corporate Planning Systems Simulation:  The Portland General Electric (PGE) Experience,1978,"'Wynn A. Abranovic', ' Lee A. Barney', ' Charles Lusky', 'Warren H. Winter'"
-Applications,Corporation Planning Models,The Dresser Planning Model,1978,"'Charles H. Hatfield', ' Jr.', 'Bryant K. Kershaw'"
+Applications,Corporation Planning Models,The Dresser Planning Model,1978,"'Charles H. Hatfield  Jr.', 'Bryant K. Kershaw'"
 Applications,Corporation Planning Models,Energy Forecasting and Simulation Models,1978,'John C. Sweeney'
 Applications,Ecosystems,A Computer Model of Rainfall Runoff from a System of Multiple Watersheds,1978,"'Ruh-Ming Li', ' Brent E. Spronk', 'Daryl B. Simons'"
 Applications,Ecosystems,Posim: A General Wildlife Population Simulator,1978,"'Edward L. Mooney', 'Terry Looner'"
@@ -806,7 +806,7 @@ Applications,Education,The Administration Decision Game:  A Simulation for Devel
 Applications,Education,Simulation in Higher Education Planning: Walk Before You Run,1978,'Nancy S. Sampson'
 Applications,Energy,Costing Forest Residue Recovery Through Simulation,1978,"'Leonard R. Johnson', 'Edward L. Fisher'"
 Applications,Energy,The Strategic Petroleum Reserve Distribution (SPRED) Simulation Model,1978,"'Dennis Taillie', ' John Neidlinger', ' Joseph Demasco', 'William Begenyi'"
-Applications,Energy,Public Utility Operation and Growth:  A System Simulation Model,1978,"'Thomas D. Clark', ' Jr.', 'William A. Shrode'"
+Applications,Energy,Public Utility Operation and Growth:  A System Simulation Model,1978,"'Thomas D. Clark  Jr.', 'William A. Shrode'"
 Applications,Energy,A Computer Simulation Model for Examining Cogeneration Alternatives,1978,"'P. E. Schweizer', 'R. E. Sieck'"
 Applications,Production Planning and Control,A Production Analysis Simulation System (PASS),1978,'Donald F. Blumberg'
 Applications,Production Planning and Control,GASP IV Simulation Model for the Composites and Bonding Production Facility,1978,'Darrell W. Starks'
@@ -828,7 +828,7 @@ Applications,Behavioral Models,Unrested Networks as Self-Designing Systems,1978,
 Applications,Behavioral Models,"Why James G. Miller's ""Decider"" Lets Simulation Harden the ""Soft"" Biological Sciences",1978,'G. Arthur Mihram'
 Applications,Information Systems,Information Systems for Transfer of Simulation Technology,1978,'John M. Dutton'
 Applications,Information Systems,Control Concepts in Synergistic Man-Machine Information Systems,1978,"'Victor Selman', ' Charles I. Bartfield', ' Jerry Selman', 'Jesse Gershberg'"
-Applications,Information Systems,Some Speculation on Simulation and Information Systems,1978,"'Henry C. Lucas', ' Jr.'"
+Applications,Information Systems,Some Speculation on Simulation and Information Systems,1978,'Henry C. Lucas  Jr.'
 Applications,Business,The Allocation of Real-Time Computing Within a Multiple-User Organization,1978,'Jeffrey H. Moore'
 Applications,Business,A Cost Allocation Model for Assessing the Impact of Energy Storage Technologies Upon Electric Utilities,1978,"'R. Giese', ' L. Holt', 'R. Scheithauer'"
 Applications,Business,Simulating the Customer Purchasing/Personal Selling Process in Retailing with a Queuing Approach,1978,"'R. Dale VonRiesen', 'Lester W. Jacobs'"
@@ -893,12 +893,12 @@ Applications,,Interactive Analysis of Simulation Output by the Method of Batch M
 Applications,,Simulation of Merge Junctions in a Dynamically Entrained Automated Guideway Transit System,1979,'Steven E. Shladover'
 Applications,,GPSS V Model of a Computerized Manufacturing System,1979,'James R. Siebauer'
 Applications,,Scheduling of Patients and Resources for Ambulatory Health Care,1979,"'Stephen R. Smith', ' Bernard J. Schroer', 'Robert E. Shannon'"
-Applications,,The Use of Computerized Business Games to Simulate Business Behavior Under Different Policies,1979,"'Peter R. Sugges', ' Jr.'"
-Applications,,The Utilization of Probabilistic Network Analysis in Planning Long-Range Engineering Projects,1979,"'D.W. Swindle', ' Jr.', ' E.H. Gift', 'F.M. Bustamante'"
+Applications,,The Use of Computerized Business Games to Simulate Business Behavior Under Different Policies,1979,'Peter R. Sugges  Jr.'
+Applications,,The Utilization of Probabilistic Network Analysis in Planning Long-Range Engineering Projects,1979,"'D.W. Swindle  Jr.', ' E.H. Gift', 'F.M. Bustamante'"
 Applications,,Dynamic Movement Predictions: An Online Railroad Simulation Model,1979,"'Michael G. Tashker', 'Peter J. Wong'"
 Applications,,The Cross-Impact Simulation of Corporate Susceptibility to Crisis: The Case for Organization Reform,1979,"'W.A. Thompson', ' C.F. Smart', 'I. Vertinsky'"
 Applications,,A Methodology for Evaluation of a Hospital's Vertical Transportation Needs,1979,'Robert B. Turnage'
-Applications,,A Simulation Approach to Examining Traditional EOQ/EOP,1979,"'Frederick C. Weston', ' Jr.'"
+Applications,,A Simulation Approach to Examining Traditional EOQ/EOP,1979,'Frederick C. Weston  Jr.'
 Applications,,Advanced Group Rapid Transit (AGRT) Operational Simulation,1979,'Wallace W. White'
 Applications,,A Procedure for Improving the Estimate of the Mean for Weakly-Stationary Autoregressive Time Series,1979,"'Richard Wiener', 'Jacob Rozmaryn'"
 Applications,,VLSI Circuit Design Supported by Computer System Simulation,1979,'John Nelson'
@@ -944,7 +944,7 @@ Tutorials,,Chapter G of the IMSL Library - Generation and Testing of Random Vari
 Tutorials,,Statistical Analysis of Simulation Output Data,1980,'A.M. Law'
 Panels,,Statistical Analysis of Simulation Output Data,1980,'J. Reitman'
 Panels,,New Vistas in Modeling Agricultural Systems,1980,'G.S. Hines'
-Panels,,New Vistas in Modeling Agricultural Systems,1980,"'T.D. Clark', ' Jr.'"
+Panels,,New Vistas in Modeling Agricultural Systems,1980,'T.D. Clark  Jr.'
 Panels,,Teaching Simulations,1980,'C.J. Bellas'
 Conceptual Bases,,Simulation and the Processes of Change,1980,'Maurice S. Elzas'
 Conceptual Bases,,Assessing Acceptability of Simulation Studies,1980,'Tuncer I. \xc3\x96ren'
@@ -992,11 +992,11 @@ Panel 3C,General System Theories,"Applications of Mathematical System Theory to 
 Panel 3C,General System Theories,Enhancement of System Design and Simulation Via General System Theories,1981,'J. Talavage'
 Panel 3C,General System Theories,Impact of General Systems Orientation: Present and Future,1981,'Bernard P. Zeigler'
 Session 3D,,Random Variate Generation,1981,'Bruce Schmeiser'
-Session 3E,Aerospace Applications,Assessing Air Force Logistics Support: A Simulation Approach,1981,"'Thomas D. Clark', ' Jr.', ' Robert K. Rasmussen', 'William D. Stover'"
+Session 3E,Aerospace Applications,Assessing Air Force Logistics Support: A Simulation Approach,1981,"'Thomas D. Clark  Jr.', ' Robert K. Rasmussen', 'William D. Stover'"
 Session 3E,Aerospace Applications,Computer Simulation and the Performance Capabilities of the Navstar Space-Based Navigation System,1981,"'T. S. Logsdon', 'C. W. Helms'"
 Session 3E,Aerospace Applications,STEM: A Simulation Model of Space Shuttle Ground Operations,1981,"'James R. Wilson', ' David K. Vaughan', ' Edward Naylor', 'Robert G. Voss'"
 Session 3F,Traffic Systems,Optimization of Service - Equipment Fleet by Simulation,1981,'M. Sadek Eid'
-Session 3F,Traffic Systems,GASP IV Simulation of Nuclear Waste,1981,"'Jeffery Lee Turek', ' Elden L. Deporter', ' Harold A. Kurstedt', ' Jr.', ' Charles E. Rasbach', 'Steven K. Funk'"
+Session 3F,Traffic Systems,GASP IV Simulation of Nuclear Waste,1981,"'Jeffery Lee Turek', ' Elden L. Deporter', ' Harold A. Kurstedt  Jr.', ' Charles E. Rasbach', 'Steven K. Funk'"
 Session 4A,,Introduction to GPSS,1981,'Thomas J. Schriber'
 Session 4B,,Advanced Use of Simula,1981,'Graham Birtwistle'
 Session 4C,Modeling and Generating Stochastic Inputs I,"Fitting ""Standard"" Distributions to Data is Necessarily Good: Dogma or Myth?",1981,'Bennett L. Fox'
@@ -1004,7 +1004,7 @@ Session 4C,Modeling and Generating Stochastic Inputs I,A Comparison of Three Met
 Session 4C,Modeling and Generating Stochastic Inputs I,The Use of Antithetic Control Variates in Computer Simulations,1981,'R. C. H. Cheng'
 Session 4D,Simulation in Defense System Management,TSAR: A Large-Scale Simulation for Assessing Force Generation and Logistics Support in a Combat Environment,1981,'Donald E. Emerson'
 Session 4D,Simulation in Defense System Management,The Dynamics of Naval Resource Allocation,1981,'Rolf Clark'
-Session 4D,Simulation in Defense System Management,Maintenance Planning and Scheduling Using Network Simulations,1981,"'Robert E. Mortenson', ' Jr.'"
+Session 4D,Simulation in Defense System Management,Maintenance Planning and Scheduling Using Network Simulations,1981,'Robert E. Mortenson  Jr.'
 Session 4E,Timing Considerations,The Sensitivity of Queueing Models Simulation to Time Discretization,1981,"'Hon-Shiang Lau', 'Ahmed Zaki'"
 Session 4E,Timing Considerations,A Continuous Process Simulation Using GPSS,1981,'Robert Greer Lavery'
 Session 4E,Timing Considerations,A Comparison of Methods for Simulating Computer Bus Architectures,1981,"'Larry Wear', ' Ron Guilmette', ' Mike Spann', 'Mike Chiusolo'"
@@ -1042,7 +1042,7 @@ Panel 8C,,Tests for the Verification and Validation of Computer Simulation Model
 Session 8D,"The Simulation Event Set, Management and Extensions","Future Dependent Events, as Shown by the Example of SLAM",1981,'Heimo H. Adelsberger'
 Session 8D,"The Simulation Event Set, Management and Extensions",The Simulation of a Pipelined Event Set Processor,1981,"'John Craig Comfort', 'Anita Miller'"
 Session 8D,"The Simulation Event Set, Management and Extensions",Adaptation of the TL Event List Algorithm to the GASP IV Simulation Language,1981,"'S. Hurtubise', ' T. Gavin', 'A. Girard'"
-Session 8E,Environmental Applications,Complex System Modeling with Statistical Methods,1981,"'John J. Helly', ' Jr.', 'Edward C. DeLand'"
+Session 8E,Environmental Applications,Complex System Modeling with Statistical Methods,1981,"'John J. Helly  Jr.', 'Edward C. DeLand'"
 Session 8E,Environmental Applications,Trouble Shooting a Photochemical Grid Model - The St. Louis Experience,1981,'J. P. Killus'
 Session 8E,Environmental Applications,On the Modeling and Control of Industrial Electrostatic Precipitators,1981,"'Carl C. Davis', 'Naim A. Kheir'"
 Session 9A,An Introduction to the Simulation Data Language,An Introduction to the Simulation Data Language,1981,"'Charles R. Standridge', 'A. Alan B. Pritsker'"
@@ -1138,7 +1138,7 @@ Tutorial,,Discrete Event Simulation with Demos,1982,"'Graham Birtwistle', 'Paul 
 Panel,,Applications of Simulation to Solve Manufacturing Problems,1982,"'Deborah J. Seifert', ' Ed Closuit', ' Carl Pratt', 'Wesley Rearick'"
 Panel,,Parallel Processing and Simulation: A Panel Discussion,1982,"'John C. Comfort', ' J. Misra', ' Ann Hayes', 'George Fishman'"
 Panel,,Panel on Hybrid Simulation/Analytic Models and Modelling,1982,"'Robert G. Sargent', ' F. Tom Sparrow', ' J. G. Shanthikumar', 'William R. Lilegdon'"
-Panel,,Preparing the Simulation Professional: Education Practice,1982,"'Thomas D. Clark', ' Jr.', ' Averill M. Law', ' A. Alan B. Pritsker', ' Thomas J. Schriber', 'Robert E. Shannon'"
+Panel,,Preparing the Simulation Professional: Education Practice,1982,"'Thomas D. Clark  Jr.', ' Averill M. Law', ' A. Alan B. Pritsker', ' Thomas J. Schriber', 'Robert E. Shannon'"
 Panel,,Simulation of Computer Systems: Looking Back,1982,"'Lawrence L. Rose', ' E. B. Zucker', ' Udo Pooch', ' Peter L. Haigh', ' Edward R. Comer', 'Ronald M. Huhn'"
 Panel,,20+ Years of GPSS,1982,"'Julian Reitman', 'M. D. Martin'"
 Panel,,Statistical Issues in Simulation Research,1982,"'Bruce Schmeiser', ' Bennett L. Fox', ' Peter A. W. Lewis', ' Andrew F. Seila', 'James R. Wilson'"
@@ -1160,7 +1160,7 @@ Educational Tutorials,,Variance Reduction: Basic Transformations,1983,"'Barry L.
 Educational Tutorials,,A Tutorial View of Simulation Model Development,1983,'Richard E. Nance'
 Educational Tutorials,,Validating Simulation Models,1983,'Robert G. Sargent'
 Educational Tutorials,,Ranking and Selection in Simulation,1983,'David Goldsman'
-Educational Tutorials,,The System Dynamics Approach to Analysis of Complex Industrial and Management Systems,1983,"'Thomas D. Clark', ' Jr.'"
+Educational Tutorials,,The System Dynamics Approach to Analysis of Complex Industrial and Management Systems,1983,'Thomas D. Clark  Jr.'
 Educational Tutorials,,Closed Loop Methodology Applied to Simulation,1983,'Al Fermelia'
 Educational Tutorials,,Event List Management - A Tutorial,1983,'James O. Henriksen'
 Educational Tutorials,,The Generation of Confidence Intervals for Steady State Simulations Through the Application of Spectral Analysis,1983,'Peter D. Welch'
@@ -1169,7 +1169,7 @@ Educational Tutorials,,Markov Modelling,1983,'W. K. Grassman'
 Educational Tutorials,,Multivariate Estimation in Simulation,1983,'Andrew F. Seila'
 Panel Sessions,,Manufacturing,1983,"'Becky Taube', ' Manny Athavale', ' Ron Dombrowski', ' Ken Klitz', ' Wayne Oates', 'Roger Wiltgen'"
 Panel Sessions,,"Simulation Methodology: Lessons of the Past, Challenges for the Future",1983,"'Bernard P. Zeigler', ' Rohamon Ragade', ' Brian Pollins', 'Tuncer I. \xc3\x96ren'"
-Panel Sessions,,Practitioners' Views on Simulation,1983,"'Kenneth J. Musselman', ' William A. Clark', ' Jr.', ' Stanley A. Hendryx', 'Donald Segal'"
+Panel Sessions,,Practitioners' Views on Simulation,1983,"'Kenneth J. Musselman', ' William A. Clark  Jr.', ' Stanley A. Hendryx', 'Donald Segal'"
 Panel Sessions,,Simulation in Education: Modeling for the Future,1983,"'Joseph L. Sowers', ' Tuncer Oren', ' Bernard Ziegler', ' Richard V. Houska', 'Richard Kopka'"
 Panel Sessions,,Comparison of Simulation and Analytical Packages for Performance Evaluation,1983,"'Robert B. Cooper', ' Edward A. MacNair', ' Debasis Mitra', 'Joseph J. Talavage'"
 Panel Sessions,,Parallel Processing and Simulation,1983,"'John C. Comfort', ' David Jefferson', ' Y. V. Reddy', ' Paul Reynolds', 'Sallie Sheppard'"
@@ -1182,8 +1182,8 @@ Methodology Sessions,Data Modeling,Advances in Parameter Estimation from Event C
 Methodology Sessions,Random Variate Generation,Generating Negatively Correlated Gamma Variates Using the Beta-Gamma Transformation,1983,'Peter A. W. Lewis'
 Methodology Sessions,Random Variate Generation,Discrete Univariate Random Variate Generation,1983,'Voratas Kachitvichyanukul'
 Methodology Sessions,Random Variate Generation,Monotonic Generation of Positive Random Variables,1983,'Louis R. Moore'
-Methodology Sessions,Distributed Computing,Active Logical Processes and Distributed Simulation: An Analysis,1983,"'Paul F. Reynolds', ' Jr.'"
-Methodology Sessions,Distributed Computing,Performance Analysis of a Distributed Simulation Algorithm Based on Active Logical Processes,1983,"'David L. Davidson', 'Paul F. Reynolds', ' Jr.'"
+Methodology Sessions,Distributed Computing,Active Logical Processes and Distributed Simulation: An Analysis,1983,'Paul F. Reynolds  Jr.'
+Methodology Sessions,Distributed Computing,Performance Analysis of a Distributed Simulation Algorithm Based on Active Logical Processes,1983,"'David L. Davidson', 'Paul F. Reynolds  Jr.'"
 Methodology Sessions,Distributed Computing,An Experiment in Microprocessor-Based Distributed Digital Simulation,1983,"'Dana L. Wyatt', ' Sallie Sheppard', 'Robert E. Young'"
 Methodology Sessions,Transient and Nonstationary Analysis,External Control Variance Reduction for Nonstationary Simulation,1983,"'Michael R. Taaffe', 'Sheryl A. Horn'"
 Methodology Sessions,Transient and Nonstationary Analysis,The Initial Transient Problem - Estimating Transient and Steady State Performance,1983,"'S. J. Deutsch', ' J. E. Richards', 'C. Fernandez-Torres'"
@@ -1220,7 +1220,7 @@ Application Sessions,Graphics in Manufacturing Simulation,Using Graphics to Buil
 Application Sessions,Graphics in Manufacturing Simulation,Animation of Output Applied to Manufacturing Capacity Analysis,1983,"'D. J. Medeiros', 'John T. Larkin'"
 Application Sessions,Traffic Systems,Stochastic Simulation of the Temporal and Spatial Interactions in Urban Travel,1983,"'Ryuichi Kitamura', 'Tenny N. Lam'"
 Application Sessions,Traffic Systems,A Simulation Model for Managing State Highway Maintenance,1983,"'J. F. Huang', ' S. M. Moussavi', 'D. R. Drew'"
-Application Sessions,Traffic Systems,An Analysis and Simulation of an Experimental Suez Canal Traffic Control System,1983,"'Thomas D. Clark', ' Jr.', ' Magdi M. Kabil', 'Moussa I. Mousa Mostafa'"
+Application Sessions,Traffic Systems,An Analysis and Simulation of an Experimental Suez Canal Traffic Control System,1983,"'Thomas D. Clark  Jr.', ' Magdi M. Kabil', 'Moussa I. Mousa Mostafa'"
 Application Sessions,Simulation Language Design,SINDECS-R: A Robotic Work Cell Simulator,1983,"'A. P. Robinson', 'S. Y. Nof'"
 Application Sessions,Simulation Language Design,A Modular Approach to the Simulation of Manufacturing Processes,1983,'Sarah A. Shoaf'
 Application Sessions,Simulation Language Design,CODESIM: A Compact Discrete Event Simulator,1983,'Lawrence L. Rose'
@@ -1230,7 +1230,7 @@ Application Sessions,Simulation Development,A Development Methodology Applied to
 Application Sessions,Simulation Development,A Software Development Environment for Simulation Programming,1983,"'Richard Reese', 'Sallie Sheppard'"
 Application Sessions,Simulation Development,Model Specification with Respect to Analysis,1983,'C. Michael Overstreet'
 Application Sessions,Environmental Modeling,A Predictive Tool for Quantifying Wind Erosion from Coal Surfaces,1983,'Mary Ann Grelinger'
-Application Sessions,Environmental Modeling,A Computer Model to Determine Pathogen Transport Through Environmental Pathways,1983,"'Robert E. Sheridan', ' Jr.', ' Kathleen E. Hain', 'Roger L. Tyler'"
+Application Sessions,Environmental Modeling,A Computer Model to Determine Pathogen Transport Through Environmental Pathways,1983,"'Robert E. Sheridan  Jr.', ' Kathleen E. Hain', 'Roger L. Tyler'"
 Application Sessions,Environmental Modeling,Developing Figures of Merit for Determining Relative Air Quality,1983,'Meyer Katzper'
 Application Sessions,Microcomputer Simulation,"""INTERACTIVE"" - A User Friendly Simulation Language",1983,"'Ronald R. Mourant', 'Raman Lakshmanan'"
 Application Sessions,Microcomputer Simulation,A MicroNET Application,1983,"'William R. Lilegdon', 'Joseph J. Talavage'"
@@ -1241,7 +1241,7 @@ Application Sessions,Simulation Support Systems,Interactive Modeling and Simulat
 Application Sessions,Simulation Support Systems,Interactive Graphics and Menus for Computer Network Models,1983,'Donald F. DuBois'
 Application Sessions,Military Applications I,Priority Dispatch and Aircraft Scheduling: A Study of Strategic Airlift Scheduling,1983,"'Gerald R. Armstrong', ' Joseph W. Coleman', ' Vernon H. Hamilton', 'Jerry W. Poe'"
 Application Sessions,Military Applications I,Evaluation of a METRIC Inventory System Using Simulation,1983,"'James R. Coakley', 'Charles G. Carpenter'"
-Application Sessions,Military Applications I,Dynamic Variable Resolution in the Quickscreen Combat Model,1983,"'John B. Gilmer', ' Jr.'"
+Application Sessions,Military Applications I,Dynamic Variable Resolution in the Quickscreen Combat Model,1983,'John B. Gilmer  Jr.'
 Application Sessions,Graphics,The Aircraft Movement Simulation Model,1983,'Michel A. Thomet'
 Application Sessions,Graphics,The Growth Process of Tropical Trees: A Simulation with Graphic Output,1983,"'Carol Lewis Weeks', 'John Craig Comfort'"
 Application Sessions,Graphics,Simulation and Animation of an Assembly System,1983,"'Bahram Keramati', ' Christine M. Kelly-Sacks', 'Gregory L. Tonkay'"
@@ -1324,7 +1324,7 @@ Application Sessions,Transportation Systems,The Role of Computer Simulation in t
 Application Sessions,Transportation Systems,User Need Satisfaction as a Basis for Evaluating Cargo Aircraft Scheduling,1984,"'James R. Coakley', ' Gerald R. Armstrong', ' Joseph C. Bryant', 'Stephen R. Gordon'"
 Application Sessions,Distributed Simulation,A Language-Directed Distributed Discrete Simulation System,1984,"'Dana L. Wyatt', 'Sallie Sheppard'"
 Application Sessions,Distributed Simulation,Asynchronous Simulation of Some Discrete Time Models,1984,'Jay B. Ghosh'
-Application Sessions,Distributed Simulation,Problem Oriented Protocol Design,1984,"'David M. Nicol', 'Paul F. Reynolds', ' Jr.'"
+Application Sessions,Distributed Simulation,Problem Oriented Protocol Design,1984,"'David M. Nicol', 'Paul F. Reynolds  Jr.'"
 Application Sessions,Simulation Using Modern Languages,Implications of the Ada Environment for Simulation Studies,1984,"'Patricia Friel', 'Sallie Sheppard'"
 Application Sessions,Simulation Using Modern Languages,Simulation with C,1984,"'Floyd H. Grant III', 'Douglas G. MacFarland'"
 Application Sessions,Simulation Using Modern Languages,Discrete Event Simulation in Pascal with SIMTOOLS,1984,'Andrew F. Seila'
@@ -1338,7 +1338,7 @@ Application Sessions,Simulation on Microcomputers,The User Interface of GPSS/PC,
 Application Sessions,Simulation on Microcomputers,Simulation of Facility Designs on a Micro-Computer,1984,"'Gerald T. Mackulak', 'Neil Glenney'"
 Application Sessions,Simulation Support Systems,New Directions for the Design of Advanced Simulation Systems,1984,"'Michael G. Ketcham', ' John W. Fowler', 'Don T. Phillips'"
 Application Sessions,Simulation Support Systems,Automation of Simulation Model Generation From System Specifications,1984,"'Richard J. Mayer', 'Robert E. Young'"
-Application Sessions,Simulation Support Systems,Evaluation of the UNIX Host for a Model Development Environment,1984,"'Richard E. Nance', ' Osman Balchi', 'Robert L. Moose', ' Jr.'"
+Application Sessions,Simulation Support Systems,Evaluation of the UNIX Host for a Model Development Environment,1984,"'Richard E. Nance', ' Osman Balchi', 'Robert L. Moose  Jr.'"
 Application Sessions,Simulation of Computer Networks,CACI Network II.5: A Computer and Communications Network Simulator,1984,'William J. Garrison'
 Application Sessions,Simulation of Computer Networks,Modeling and Analysis of Ethernet Networks,1984,"'John K. Jackman', 'D. J. Medeiros'"
 Application Sessions,Simulation of Computer Networks,Dynamics of Large Scale Distributed Networks,1984,"'Clayton M. Lockhart', ' Mario R. Garzia', 'Douglas L. Mikula'"
@@ -1348,7 +1348,7 @@ Application Sessions,Simulation in Real Time Control,Emulation as a Design Tool 
 Application Sessions,Potpourri,A GPSS Simulation to Determine Congestion in an Ethernet Type Local Area Network,1984,"'Howard Blum', 'Frank Paccione'"
 Application Sessions,Potpourri,An Introspective Environment for Knowledge Based Simulation,1984,"'Venkataseshan Baskaran', 'Y. V. Reddy'"
 Application Sessions,Potpourri,A Multitasking Implementation of System Simulation: The Emulation of an Asynchronous Parallel Processor for System Simulation Using a Single Processor,1984,"'Murali Krishnamurthi', 'Robert E. Young'"
-Application Sessions,Simulation in the Public Sector,A Simulation Model for Aged and Disabled Services,1984,"'Reuben R. McDaniel', ' Jr.', ' Robert S. Sullivan', 'James R. Wilson'"
+Application Sessions,Simulation in the Public Sector,A Simulation Model for Aged and Disabled Services,1984,"'Reuben R. McDaniel  Jr.', ' Robert S. Sullivan', 'James R. Wilson'"
 Application Sessions,Simulation in the Public Sector,Modeling the Urban Development Process and the Related Transportation Impacts,1984,"'Tenny N. Lam', ' Richard Corsi', 'Katherine Wages'"
 Application Sessions,Simulation of Physiological Systems,Simulation of Physiological Systems,1984,'Gerald Miller'
 Application Sessions,Simulation of Physiological Systems,Computer Eye Looks at Human Eye,1984,"'Bruce H. McCormick', 'Roland Priemer'"
@@ -1356,7 +1356,7 @@ Application Sessions,Simulation of Physiological Systems,Simulation of the Human
 Application Sessions,Health Care Systems,Outpatient Health Care Facility Planning and Sizing via Computer Simulation,1984,'Peter Amladi'
 Application Sessions,Health Care Systems,Simulation Modeling in Health Care Facilities,1984,"'Kenneth R. Currie', ' Wafik H. Iskander', ' Michael Leonard', 'Cynthia D. Coberly'"
 Application Sessions,Military Applications I,Simulation Models for Army Manpower Requirements,1984,'Charles Dale'
-Application Sessions,Military Applications I,A Policy Analysis for Logistical Support of Multiple U.S. Army Contingency Requirements,1984,"'Thomas D. Clark', ' Jr.', ' George C. Prueitt', 'Robert L. Smith'"
+Application Sessions,Military Applications I,A Policy Analysis for Logistical Support of Multiple U.S. Army Contingency Requirements,1984,"'Thomas D. Clark  Jr.', ' George C. Prueitt', 'Robert L. Smith'"
 Application Sessions,Military Applications II,Modeling Tactical Communications with QSIM,1984,"'A. F. Malmberg', ' S. A. Hutchinson', ' R. D. Riggin', 'W. N. Friend'"
 Application Sessions,Military Applications II,B-1B Avionics/Automatic Test Equipment: Maintenance Queueing Analysis,1984,"'Lance M. Roark', ' James K. Feldman', 'James Bexfield'"
 Application Sessions,Military Applications II,"Direct Ascent, Deep Space Intercept Model",1984,"'Mark M. Mekaru', 'Richard C. Barclay'"
@@ -1445,7 +1445,7 @@ Application Sessions,Models of Transportation Systems,Simulation Analysis of Two
 Application Sessions,Models of Transportation Systems,A Simulation Model of the FAA's Flight Service Automation System,1985,"'C. R. Spooner', ' A. Acampora', 'R. Regner'"
 Application Sessions,Communications Control and Distributed Systems,Simulation of a Pyramid Processor,1985,"'Duane R. Ball', ' Gerard C. Blais', ' David Schaefer', ' Gregory Wilcox', 'R. Neil Wagoner'"
 Application Sessions,Communications Control and Distributed Systems,File Placement and Process Assignment due to Resource Sharing in a Distributed System,1985,'Anna Hac'
-Application Sessions,Communications Control and Distributed Systems,An Optimal Repartitioning Decision Policy,1985,"'David M. Nicol', 'Paul F. Reynolds', ' Jr.'"
+Application Sessions,Communications Control and Distributed Systems,An Optimal Repartitioning Decision Policy,1985,"'David M. Nicol', 'Paul F. Reynolds  Jr.'"
 Application Sessions,Microcomputer Software,Programming-Free Graphic Factory Simulation With GEFMS/PC (Graphically Enhanced Flexible Modeling System),1985,"'Ralph R. Duersch', 'Marc A. Laymon'"
 Application Sessions,Microcomputer Software,Screening Tests of Pseudorandom Number Generators on IBM PCs and Compatibles,1985,'John M. Gleason'
 Application Sessions,Microcomputer Software,Introduction to SANDIE,1985,'Arne Thesen'
@@ -1459,7 +1459,7 @@ Application Sessions,Computer Simulation of Hospital Operations,The Use of a Sim
 Application Sessions,Military Systems I,Simulation Model of Space Station Operations in the Space Debris Environment,1985,"'Mark M. Mekaru', 'Brian M. Waechter'"
 Application Sessions,Military Systems I,Quickscreen,1985,"'Timothy C. Hawkins', 'G. Frank Thompson'"
 Application Sessions,Military Systems I,A Simulation of an Imbedded Software System for Global Positioning System Navigation,1985,'Jon Vavrus'
-Application Sessions,Economic and Financial Models,Alternate Structures for Public Power Systems,1985,"'Thomas D. Clark', ' Jr.', 'William A. Bailey', ' Jr.'"
+Application Sessions,Economic and Financial Models,Alternate Structures for Public Power Systems,1985,"'Thomas D. Clark  Jr.', 'William A. Bailey  Jr.'"
 Application Sessions,Economic and Financial Models,SLAM Applications in Economic Modeling of Large Investment Projects,1985,'Mehdi Manesh'
 Application Sessions,Economic and Financial Models,Finding Equilibrium Bidding Strategies for a Simulated Timber Auction,1985,"'Michael Rothkopf', 'David Wood'"
 Application Sessions,Military Systems II,Performance Analysis of Integrated Navigation Systems,1985,"'Keith Brodie', ' Donald Eller', 'Gregory Seibert'"
@@ -1528,7 +1528,7 @@ Methodology Sessions II: Modeling,New Simulation Programming Tools,Language Asse
 Methodology Sessions II: Modeling,Implementations of Time (Panel),Implementations of Time (Panel),1986,"'Douglas W. Jones', ' James O. Henriksen', ' C. Dennis Pegden', ' Robert G. Sargent', "" Robert M. O'Keefe"", 'Brian W. Unger'"
 Methodology Sessions II: Modeling,Issues in Distributed Simulation,Concurrent Simulation: An Alternative to Distributed Simulation,1986,'Douglas W. Jones'
 Methodology Sessions II: Modeling,Issues in Distributed Simulation,"""AXE"": A Simulation Environment for Actor-like Computations on Ensemble Architectures",1986,"'Jerry C. Yan', 'Stephen F. Lundstrom'"
-Methodology Sessions II: Modeling,Issues in Distributed Simulation,Replicated State Space Approach for Parallel Simulation,1986,"'John B. Gilmer', ' Jr.', 'Jung Pyo Hong'"
+Methodology Sessions II: Modeling,Issues in Distributed Simulation,Replicated State Space Approach for Parallel Simulation,1986,"'John B. Gilmer  Jr.', 'Jung Pyo Hong'"
 Methodology Sessions II: Modeling,Emerging Methodological Influences (Panel),Entropy Data Analysis,1986,'Bush Jones'
 Methodology Sessions II: Modeling,Emerging Methodological Influences (Panel),Temporal Reasoning,1986,'David P. Miller'
 Methodology Sessions II: Modeling,Emerging Methodological Influences (Panel),Applications of the Dempster-Shafer Theory of Evidence for Simulation,1986,"'Kathryn B. Laskey', 'Marvin S. Cohen'"
@@ -1547,7 +1547,7 @@ Methodology Sessions II: Modeling,Graphics and Animation in Discrete Event Simul
 Methodology Sessions II: Modeling,Graphics and Animation in Discrete Event Simulation,Presenting GPSS/H Results with the Graphical Kernel System (GKS),1986,"'Raphael Parambi', 'Aseem Chandawarkar'"
 Methodology Sessions II: Modeling,Graphics and Animation in Discrete Event Simulation,System Iconic Modeling Facility,1986,"'Kenneth L. Stanwood', ' Lani N. Waller', 'Greg C. Marr'"
 Applications Sessions I: Manufacturing,Manufacturing Systems Simulation: An Overview,Pitfalls in the Simulation of Manufacturing Systems,1986,"'Averill M. Law', 'Michael G. McComas'"
-Applications Sessions I: Manufacturing,Manufacturing Systems Simulation: An Overview,Manufacturing Simulation in Practice: Suggestions for Establishing Credibility,1986,"'S. A. Weiner', ' J. W. Grant', 'P. E. Coffman', ' Jr.'"
+Applications Sessions I: Manufacturing,Manufacturing Systems Simulation: An Overview,Manufacturing Simulation in Practice: Suggestions for Establishing Credibility,1986,"'S. A. Weiner', ' J. W. Grant', 'P. E. Coffman  Jr.'"
 Applications Sessions I: Manufacturing,Approaches to Manufacturing Simulation,An Approach to Using a Data Base Management System in Manufacturing System Simulation,1986,"'Hui Jun Han', 'Kenneth A. Fegley'"
 Applications Sessions I: Manufacturing,Approaches to Manufacturing Simulation,Simulation and Advanced Manufacturing System Design,1986,"'Van B. Norman', 'T. A. Norman'"
 Applications Sessions I: Manufacturing,Approaches to Manufacturing Simulation,The Manufacturing Model Process: From Conception to Shop Floor Application,1986,'Peter M. Waller'
@@ -1556,7 +1556,7 @@ Applications Sessions I: Manufacturing,Elements of Material Handling Systems,Mod
 Applications Sessions I: Manufacturing,Elements of Material Handling Systems,Simplified Approaches to Modeling Accumulating and Nonaccumulating Conveyor Systems,1986,"'James O. Henriksen', 'Thomas J. Schriber'"
 Applications Sessions I: Manufacturing,Elements of Material Handling Systems,A Simulation Modeling Approach for Analyzing Robotic Assembly Cells,1986,"'Charles R. Cash', 'Wilbert E. Wilhelm'"
 Applications Sessions I: Manufacturing,Storage Systems: Modeling and Analysis,Modeling Tote Stacker Operation as a WIP Storage Device,1986,'Philip Cobbin'
-Applications Sessions I: Manufacturing,Storage Systems: Modeling and Analysis,Performance Analysis of Miniload Systems,1986,"'D. J. Medeiros', ' E. Emory Enscore', ' Jr.', 'Alan Smith'"
+Applications Sessions I: Manufacturing,Storage Systems: Modeling and Analysis,Performance Analysis of Miniload Systems,1986,"'D. J. Medeiros', ' E. Emory Enscore  Jr.', 'Alan Smith'"
 Applications Sessions I: Manufacturing,Storage Systems: Modeling and Analysis,Interactive Simulation Modeling of Automated Storage Retrieval Systems,1986,"'Sethuraman Raghunath', ' Ronald Perry', 'Thomas Cullinane'"
 Applications Sessions I: Manufacturing,Flexible Manufacturing Systems,Simulation of a Flexible Manufacturing Cell,1986,'Richard Godziela'
 Applications Sessions I: Manufacturing,Flexible Manufacturing Systems,Simulation Analysis of an FMS During Implementation,1986,'David L. Martin'
@@ -1587,7 +1587,7 @@ Applications Sessions II: General,Military Applications,Modeling the Initializat
 Applications Sessions II: General,Military Applications,The Script Processing Technique in Modeling/Simulation and Its Role in the Generation of Animated Computer Graphics,1986,'Robert E. Sheridan'
 Applications Sessions II: General,Policy Planning and Risk Analysis,Evolutionary Development of a Simulation Model Used for Policy Planning and Development,1986,"'William T. Begenyi', ' Nancy Marland', 'Norman Hampton'"
 Applications Sessions II: General,Policy Planning and Risk Analysis,Simulation Analysis of Financial Risks for Three Vegetable Crops in Hawaii,1986,"'PingSun Leung', ' Sununtar Setboonsarng', 'John Halloran'"
-Applications Sessions II: General,Policy Planning and Risk Analysis,A Systems Analysis and Model of Driver Licensing in the State of Florida,1986,"'Thomas D. Clark', ' Jr.'"
+Applications Sessions II: General,Policy Planning and Risk Analysis,A Systems Analysis and Model of Driver Licensing in the State of Florida,1986,'Thomas D. Clark  Jr.'
 Applications Sessions II: General,Simulation Influences in Government (Panel),A Systems Analysis and Model of Driver Licensing in the State of Florida,1986,'Julian Reitman'
 Applications Sessions II: General,Simulation and Model-Based Engineering Design,Quality Assurance in Cognizant Simulative Design,1986,'Tuncer I. \xc3\x96ren'
 Applications Sessions II: General,Simulation and Model-Based Engineering Design,Digital Systems Design Automation: A Simulation-Based Network,1986,'Stephen Zorn'
@@ -1641,7 +1641,7 @@ Analysis Methodology,Variance Estimation,Correlation Among Estimators of the Var
 Analysis Methodology,Output Analysis,A New Initial Bias Deletion Rule,1987,"'Peter W. Glynn', 'Donald L. Iglehart'"
 Analysis Methodology,Output Analysis,"On the Relationship Between Batch Means, Overlapping Batch Means and Spectral Estimation",1987,'Peter D. Welch'
 Analysis Methodology,Variance Reduction Via Control Variates,Control Variate Models for Sensitivity Estimates of Repairable Item Systems,1987,"'Mohamed A. Ahmed', ' Donald Gross', 'Douglas R. Miller'"
-Analysis Methodology,Variance Reduction Via Control Variates,Estimation Procedures Based on Control Variates With Known Covariance Matrix,1987,"'Kenneth W. Bauer', ' Jr.', ' Sekhar Vankatraman', 'James R. Wilson'"
+Analysis Methodology,Variance Reduction Via Control Variates,Estimation Procedures Based on Control Variates With Known Covariance Matrix,1987,"'Kenneth W. Bauer  Jr.', ' Sekhar Vankatraman', 'James R. Wilson'"
 Analysis Methodology,Variance Reduction Via Control Variates,Smarter Control Variables: Regression-Adjusted Linear and Nonlinear Controls,1987,"'Peter A. W. Lewis', ' Richard Ressler', 'R. Kevin Wood'"
 Analysis Methodology,Variance Reduction via Importance Sampling,The Monte Carlo Estimation of Function Variation,1987,'George S. Fishman'
 Analysis Methodology,Variance Reduction via Importance Sampling,Measure Specific Dynamic Importance Sampling for Availability Simulations,1987,"'Ambuj Goyal', ' Philip Heidelberger', 'Perwez Shahabuddin'"
@@ -1703,7 +1703,7 @@ Manufacturing Applications,Analytical and Simulation Modeling in Manufacturing,U
 Manufacturing Applications,Optimization Analysis in Manufacturing,Manufacturing Process Analysis - Tools and Applications,1987,"'Richard Harper', ""Michael J. O'Loughlin"""
 Manufacturing Applications,Optimization Analysis in Manufacturing,Single Run Optimization of a SIMAN Model for Closed Loop Flexible Assembly Systems,1987,"'Rajan Suri', 'Ying Tat Leung'"
 General Applications,Computer System Design,Direct Execution Models of Processor Behavior and Performance,1987,"'Richard M. Fujimoto', 'William B. Campbell'"
-General Applications,Computer System Design,A Simulation Study of a Parallel Processor With Unbalanced Loads,1987,"'Wade H. Shaw', ' Jr.', 'Timothy S. Moore'"
+General Applications,Computer System Design,A Simulation Study of a Parallel Processor With Unbalanced Loads,1987,"'Wade H. Shaw  Jr.', 'Timothy S. Moore'"
 General Applications,Computer System Design,A Simulation of Dynamic Task Allocation in a Distributed Computer System,1987,'Ed Andert'
 General Applications,Financial Analysis and Economic Structure Modeling,Premises Telecommunications Network Technological and Financial Modeling,1987,"'Peter Stanek', 'Jeffrey H. Fenton'"
 General Applications,Financial Analysis and Economic Structure Modeling,A Simulation Model of Public University Financial Resources for Faculty,1987,"'John L. Ballard', 'Thomas W. Spilker'"
@@ -1713,7 +1713,7 @@ General Applications,Telecommunications Systems Design and Analysis,Simulation A
 General Applications,Telecommunications Systems Design and Analysis,Computer Simulation of Communications on the Space Station Data Management Systems,1987,"'J. R. Agre', ' J. A. Clarke', ' M. W. Atkinson', 'I. H. Shahnawaz'"
 General Applications,Transportation,The Geometrical Design of Signalised Road Traffic Junctions,1987,"'Janet E. Williams', 'Jeff D. Griffiths'"
 General Applications,Transportation,Using Expert Systems to Select Software for Traffic Analysis,1987,'Edmon C. Chang'
-General Applications,Transportation,A Simulation Analysis of Demand and Fleet Size Effects on Taxicab Service Rates,1987,"'William A. Bailey', 'Thomas D. Clark', ' Jr.'"
+General Applications,Transportation,A Simulation Analysis of Demand and Fleet Size Effects on Taxicab Service Rates,1987,"'William A. Bailey', 'Thomas D. Clark  Jr.'"
 General Applications,Logistics Management and Analysis,A Logistics Application of Simulation to Determine Distribution Costs Resulting from a Forward Warehouse Operation,1987,'Edmund W. Schuster'
 General Applications,Logistics Management and Analysis,Stockage Policy Cost Simulation for DLA Hazardous and Nonhazardous Shelf-Life Items,1987,"'Richard E. Baker', ' Arild Olsen', 'Janet Rider'"
 General Applications,Logistics Management and Analysis,Object Oriented Simulation for the U.S. Army Graves Registration Service,1987,"'Richard A. Helfman', ' Mark H. Ralston', 'J. Robert Suckling'"
@@ -1725,7 +1725,7 @@ General Applications,Operations Management,Self-Insurance by Small Scale Cogener
 General Applications,Operations Management,Delay PERT,1987,'Donovan Young'
 General Applications,Health Care Management,Impact Points in Patient Flows Through a Radiology Department Provided Through Simulation,1987,'Keith A. Klafehn'
 General Applications,Health Care Management,Simulation of a Hospital Patient Transportation System,1987,'Bruce Pollack-Johnson'
-General Applications,Health Care Management,A Simulation Approach to Analysis of Emergency Services and Trauma Center Management,1987,"'Thomas D. Clark', ' Jr.', 'Craig W. Waring'"
+General Applications,Health Care Management,A Simulation Approach to Analysis of Emergency Services and Trauma Center Management,1987,"'Thomas D. Clark  Jr.', 'Craig W. Waring'"
 General Applications,Engineering Applications,The Application of Computer Simulation in a Flight Vehicle CAD System,1987,'Chunxi Wan'
 General Applications,Engineering Applications,Simulation of a Local Area Network for a Newspaper Production System,1987,"'J. Agre', ' I. Shahnawaz', ' M. Atkinson', ' D. Joshi', 'A. R. K. Sastry'"
 General Applications,Engineering Applications,Simulation Used to Qualify Nuclear Waste Glass for Disposal,1987,"'Paul W. Reimus', 'William L. Kuhn'"
@@ -1759,7 +1759,7 @@ Specific Software Tutorials,,Animation with CINEMA,1988,"'Trevor Miles', ' Randa
 Specific Software Tutorials,,A Tutorial on UNIFIT: An Interactive Computer Package for Fitting Probability Distributions to Observed Data,1988,"'Averill M. Law', 'Stephen G. Vincent'"
 Specific Software Tutorials,,The MAST Simulation Environment Analyzing Low Frequency Inventory,1988,"'John E. Lenz', 'James R. Gross'"
 Specific Software Tutorials,,Distributed Simulation,1988,'Brian W. Unger'
-Specific Software Tutorials,,Heterogenous Distributed Simulation,1988,"'Paul F. Reynolds', ' Jr.'"
+Specific Software Tutorials,,Heterogenous Distributed Simulation,1988,'Paul F. Reynolds  Jr.'
 Modeling Methodology,,The Object Library for Parallel Simulation (OLPS),1988,'Marc Abrams'
 Modeling Methodology,,The Methodology Roles in the Realization of a Model Development Environment,1988,"'Richard E. Nance', 'James D. Arthur'"
 Modeling Methodology,,Towards an Implementation of a Knowledge-Based System Design and Simulation Environment,1988,"'Jerzy W. Rozenblit', ' Tag Gon Kim', 'Bernard P. Zeigler'"
@@ -1775,7 +1775,7 @@ Modeling Methodology,,The Implementation of Four Conceptual Frameworks for Simul
 Modeling Methodology,,Wolf: A Rollback Algorithm for Optimistic Distributed Simulation Systems,1988,"'Vijay Madisetti', ' Jean Walrand', 'David Messerschmitt'"
 Modeling Methodology,,High Performance Parallelized Discrete Event Simulation of Stochastic Queueing Networks,1988,'David M. Nicol'
 Modeling Methodology,,A Unified Modeling Methodology for Performance Evaluation of Distributed Discrete Event Simulation Mechanisms,1988,"'Bruno R. Preiss', ' Wayne M. Loucks', 'V. Carl Hamacher'"
-Modeling Methodology,,A Spectrum of Options for Parallel Simulation,1988,"'Paul F. Reynolds', ' Jr.'"
+Modeling Methodology,,A Spectrum of Options for Parallel Simulation,1988,'Paul F. Reynolds  Jr.'
 Modeling Methodology,,Implementation Parallelized Queueing Network Simulations Using FORTRAN and Data Abstraction,1988,"'Keith W. Miller', 'David M. Nicol'"
 Modeling Methodology,,Automatic Development of Parallel Simulation Models in ADA,1988,"'Carolyn K. Davis', ' Sallie V. Sheppard', 'William M. Lively'"
 Modeling Methodology,,Modeling Viewpoints for Assessing Reliability,1988,'A. Alan B. Pritsker'
@@ -1825,7 +1825,7 @@ Manufacturing Applications,,Simulation Modeling of Just-in-Time Assembly Systems
 Manufacturing Applications,,Simulation at Digital Equipment Corporation: The Process Expert as Simulation Expert,1988,"""Michael J. O'Loughlin"", ' Michael T. Meagher', 'Richard J. Harper'"
 Manufacturing Applications,,The Project Approach to Simulation Language Comparison,1988,"'F. Bradley Armstrong', 'Scott Sumner'"
 Manufacturing Applications,,A Statistical Method for Generating Order Information for Simulation Modeling and Analysis,1988,"'David L. Martin', 'F. Bradley Armstrong IV'"
-Manufacturing Applications,,Simulation of a Finished Goods Allocation System,1988,"'Edward F. Stafford', ' Jr.', 'Bernard J. Schroer'"
+Manufacturing Applications,,Simulation of a Finished Goods Allocation System,1988,"'Edward F. Stafford  Jr.', 'Bernard J. Schroer'"
 Manufacturing Applications,,"Capacity Choice, Work-in-Progress Inventory and Throughput: A Simulation Study",1988,"'G. G. Hegde', ' K. Ramamurthy', ' P. R. Tadikamalla', 'Sunder Kekre'"
 Manufacturing Applications,,Analysis of Low Inventory Manufacturing Using MIM,1988,'John E. Lenz'
 Manufacturing Applications,,Analysis of a Factory of the Future Using an Integrated Set of Software for Manufacturing Systems Modeling,1988,"'Masami Shimizu', 'David Van Zoest'"
@@ -1885,8 +1885,8 @@ Software Tutorials,,Introduction to SIMAN,1989,"'David T. Sturrock', 'C. Dennis 
 Software Tutorials,,A Tutorial Introduction to Object-Oriented Simulation and SIM++,1989,"'Greg Lomow', 'Dirk Baezner'"
 Software Tutorials,,Computer Animation With CINEMA,1989,"'Jacob P. Poorte', 'Deborah A. Davis'"
 Software Tutorials,,A General Purpose Animator,1989,"'Daniel T. Brunner', 'James O. Henriksen'"
-Software Tutorials,,Productivity Tools in Simulation: SIMSCRIPT II.5 and SIMGRAPHICS,1989,"'Otis F. Bryan', ' Jr.'"
-Software Tutorials,,MODSIM II - An Object-Oriented Simulation Language for Sequential and Parallel Processors,1989,"'Otis F. Bryan', ' Jr.'"
+Software Tutorials,,Productivity Tools in Simulation: SIMSCRIPT II.5 and SIMGRAPHICS,1989,'Otis F. Bryan  Jr.'
+Software Tutorials,,MODSIM II - An Object-Oriented Simulation Language for Sequential and Parallel Processors,1989,'Otis F. Bryan  Jr.'
 Software Tutorials,,Introduction to SLAM II and SLAMSYSTEM,1989,"""Jean J. O'Reilly"", 'Kristen C. Nordlund'"
 Software Tutorials,,The GPSS/PC Student Version,1989,'Springer W. Cox'
 Software Tutorials,,A Tutorial on SEE WHY and WITNESS,1989,"'Andrew R. Gilman', 'Claire Billingham'"
@@ -1952,7 +1952,7 @@ Modeling Methodology,Parallel Simulation: Theory,Adaptive Distribution of Model 
 Modeling Methodology,Alternative Modeling Perspectives,Alternative Modeling Perspectives: Finding the Creative Spark,1989,'James O. Henriksen'
 Modeling Methodology,Alternative Modeling Perspectives,Developing Analytic Models Based on Simulation Results,1989,'A. Alan B. Pritsker'
 Modeling Methodology,Parallel Simulation: Testbeds,"A Common Programming Structure for Bryant-Chandy-Misra, Time-Warp, and Sequential Simulators",1989,'Marc Abrams'
-Modeling Methodology,Parallel Simulation: Testbeds,Comparative Analyses of Parallel Simulation Protocols,1989,"'Paul F. Reynolds', ' Jr.', ' Christopher F. Weight', 'J. Robert Fidler II'"
+Modeling Methodology,Parallel Simulation: Testbeds,Comparative Analyses of Parallel Simulation Protocols,1989,"'Paul F. Reynolds  Jr.', ' Christopher F. Weight', 'J. Robert Fidler II'"
 Modeling Methodology,Parallel Simulation: Testbeds,Efficient Aggregation of Multiple LPs in Distributed Memory Parallel Simulations,1989,"'David M. Nicol', ' Chris C. Micheal', 'Patrick Inouye'"
 Modeling Methodology,How Technology Limits Simulation Methodology (Panel),How Technology Limits Simulation Methodology (Panel),1989,"'C. Dennis Pegden', ' Cindy Morey', ' Brian Unger', ' Peter Welch', ' Deborah Medeiros', 'Timothy Thomasma'"
 Modeling Methodology,Theoretical Foundations of Modeling,A Logic for Simulating Discontinuous Systems,1989,"'Sanjai Narain', 'Jeff Rothenberg'"
@@ -1999,7 +1999,7 @@ General Applications,Military Operations,Hail Storm: A Model for Determining the
 General Applications,Military Operations,A Comparison of Serial and Parallel Processing Simulation Models of Pilot Workload,1989,'Thomas F. Schuppe'
 General Applications,"Government Command, Control and Communication",The Results of Simulating a Digital Imaging Network System in Echelon 3 of Deployable Combat Medical Facilities,1989,'William P. Johnson'
 General Applications,"Government Command, Control and Communication",TCDL - An Experiment System Language for Wargaming,1989,"'Joseph L. Sowers', 'Paul E. Rubin'"
-General Applications,"Government Command, Control and Communication",A Modeling Perspective for Meteor Burst Communication,1989,"'Brian C. Healy', ' Wade H. Shaw', ' Jr.', 'Joseph R. Litko'"
+General Applications,"Government Command, Control and Communication",A Modeling Perspective for Meteor Burst Communication,1989,"'Brian C. Healy', ' Wade H. Shaw  Jr.', 'Joseph R. Litko'"
 General Applications,Advanced Methodology for Simulating High Performance Computer Systems,Efficient Simulation of Cache Memories,1989,"'S. Dwarkadas', ' J. R. Jump', 'J. B. Sinclair'"
 General Applications,Advanced Methodology for Simulating High Performance Computer Systems,Techniques for the Trace-Driven Simulation of Cache Performance,1989,"'Susan J. Eggers', ' Edward D. Lazowska', 'Yi-Bing Lin'"
 General Applications,Advanced Methodology for Simulating High Performance Computer Systems,Simulation and Analysis of a Pipeline Processor,1989,"'P. G. Emma', ' J. W. Knight', ' J. H. Pomerene', ' T. R. Puzak', 'R. N. Rechtschaffen'"
@@ -2112,7 +2112,7 @@ Modeling Methodology,Custom Simulations,Template Based Simulators: An Example fr
 Modeling Methodology,Custom Simulations,A Generalized Reliability Block Diagram (RBD) Simulation,1990,"'Kerry D. Figiel', 'Dileep R. Sule'"
 Manufacturing Applications,Electronics Manufacturing,Electronic Manufacturing Cell Design Using PC-Based Modeling and Simulation Tools,1990,"'Ravindra Gujar', ' Paul Desruelle', 'Randall Hammer'"
 Manufacturing Applications,Electronics Manufacturing,Simulation: The Small Manufacturer's Unknown Need,1990,'Walter J. Trybula'
-Manufacturing Applications,Electronics Manufacturing,"A Flexible Simulation Framework for Evaluating Multi-Level, Heuristic-Based Production Control Strategies",1990,"'G. Don Taylor', ' Jr.'"
+Manufacturing Applications,Electronics Manufacturing,"A Flexible Simulation Framework for Evaluating Multi-Level, Heuristic-Based Production Control Strategies",1990,'G. Don Taylor  Jr.'
 Manufacturing Applications,Financial Simulations,The Representation of Accounting Data in Industrial Simulation,1990,"'Craig McLanahan', 'Michael G. Ketcham'"
 Manufacturing Applications,Financial Simulations,Financial Simulation: Combining Cost Information in Systems Analysis,1990,"""Michael J. O'Loughlin"", ' Mary K. Driskell', 'Gregory Diehl'"
 Manufacturing Applications,Financial Simulations,Simultaneous Cost and Production Analysis of Manufacturing Systems,1990,"'David P. Christy', 'George B. Kleindorfer'"
@@ -2143,7 +2143,7 @@ General Applications,Exploiting Problem Structure for High Performance Simulatio
 General Applications,Exploiting Problem Structure for High Performance Simulation,Parallel Trace-Driven Cache Simulation by Time Partitioning,1990,"'Philip Heidelberger', 'Harold S. Stone'"
 General Applications,Productivity and Performance Modeling,Using Discrete Event Simulation to Evaluate Housestaff Work Schedules,1990,"'Robert W. Klein', ' Mark A. Dame', ' Robert S. Dittus', 'David J. DeBrota'"
 General Applications,Productivity and Performance Modeling,A Simulation Model for Assessing Fishing Fleet Performance Under Uncertainty,1990,"'Harvey H. Millar', 'Eldon A. Gunn'"
-General Applications,Productivity and Performance Modeling,A Systems Analysis and Model of a Parallel Multi-Server Queueing System,1990,"'Thomas D. Clark', ' Jr.', ' Kathy L. McCommon', 'Donald H. Hammond'"
+General Applications,Productivity and Performance Modeling,A Systems Analysis and Model of a Parallel Multi-Server Queueing System,1990,"'Thomas D. Clark  Jr.', ' Kathy L. McCommon', 'Donald H. Hammond'"
 General Applications,Transportation Systems I,The Role of Interactive Graphics When Applying Traffic Simulation Models,1990,"'Edward B. Lieberman', 'Barbara Andrews'"
 General Applications,Transportation Systems I,Traffic Modeling Software for IVHS Applications,1990,"'Alberto J. Santiago', 'Hobih Chen'"
 General Applications,Transportation Systems I,Dynamic Simulation-Assignment Methodology to Evaluate In-Vehicle Information Strategies in Urban Traffic Networks,1990,"'R. Jayakrishnan', 'Hani S. Mahmassani'"
@@ -2156,14 +2156,14 @@ General Applications,Transportation Systems III,The Use of Computer Simulation f
 General Applications,Computer Networks,Simulation of the LAN Behavior in the Distributed HP-UX Environment,1990,"'Joseph J. Deval', ' Thomas C. Kerrigan', 'Michael K. Molloy'"
 General Applications,Computer Networks,Simulation of a Real-Time Fault Detection and Analysis System for a CIM Token Ring Network,1990,"'Mark D. Pardue', 'James D. Palmer'"
 General Applications,Computer Networks,A Simulation Study of the Communications Performance of the Federal Aviation Administration Mode Select Beacon System for Air Traffic Control,1990,"'Charlotte Laqui', 'Yaoshuang Qu'"
-General Applications,Computer Systems I,"Disk I/O, A Study in Shifting Bottlenecks",1990,"'Charles E. Knadler', ' Jr.', 'Ralph M. May'"
+General Applications,Computer Systems I,"Disk I/O, A Study in Shifting Bottlenecks",1990,"'Charles E. Knadler  Jr.', 'Ralph M. May'"
 General Applications,Computer Systems I,Simulating Dedicated Unix PC-Based Application Systems,1990,"'Boleslaw K. Szymanski', 'Steven H. Azzaro'"
 General Applications,Computer Systems I,Effects of Distributed Database Modeling on Evaluation of Transaction Rollbacks,1990,'Ravi Mukkamala'
 General Applications,Computer Systems II,System Performance Analysis With an ADA Process Model Development,1990,'Joseph A. Viceroy'
 General Applications,Computer Systems II,On Comparing Load Indices Using Oracle Simulation,1990,"'Sayed A. Banawan', 'John Zahorjan'"
 General Applications,Computer Systems II,Developing a Simulator for the USC Orthogonal Multiprocessor,1990,'Sharad Mehrotra'
 General Applications,Military Systems I,The Oak Ridge Spreadsheet Battle Model,1990,'Dean S. Hartley III'
-General Applications,Military Systems I,Toward Real Time Simulation: Prototyping of a Large Scale Parallel Ground Target Simulation,1990,"'John B. Gilmer', ' Jr.', "" David W. O'Brien"", 'Jeffery E. Payne'"
+General Applications,Military Systems I,Toward Real Time Simulation: Prototyping of a Large Scale Parallel Ground Target Simulation,1990,"'John B. Gilmer  Jr.', "" David W. O'Brien"", 'Jeffery E. Payne'"
 General Applications,Military Systems I,Ammunition Upload and Deployment V2.0: A Simulation Analysis,1990,'Stephen Richard Parker'
 General Applications,Military Systems II,An Evaluation Technique for a Protocol in Development,1990,"'Philip M. Irey IV', ' David T. Marlow', 'Richard E. Nance'"
 General Applications,Military Systems II,The Command and Control Communications and Information Network Analysis Tool (C3INAT),1990,"'John P. Mullen', ' Jason Rupe', ' Srinagesh Gavirneni', 'Way Kuo'"
@@ -2246,7 +2246,7 @@ Military Applications,Military Simulation Technology,An Assessment of the ModSim
 Military Applications,Military Simulation Technology,Modeling and Simulation: A Department of Defense Critical Technology,1991,'Thomas F. Schuppe'
 Military Applications,Military Simulation Technology,Airborne Battlefield Command and Control Center (ABCCC) III Capacity Study,1991,"'Larry D. Cork', 'David R. Holmen'"
 Military Applications,Air Operations,A Desert Storm Crew Flying Hour Model,1991,"'Joseph R. Litko', 'William B. Carter'"
-Military Applications,Air Operations,Impact of C-130 Reliability and Maintainability on Future Theater Airlift System Productivity,1991,"'Steven J. Wourms', 'Kenneth W. Bauer', ' Jr.'"
+Military Applications,Air Operations,Impact of C-130 Reliability and Maintainability on Future Theater Airlift System Productivity,1991,"'Steven J. Wourms', 'Kenneth W. Bauer  Jr.'"
 Military Applications,Air Operations,Evaluation of F-15E Availability During Operational Test,1991,'Letitia M. Pohl'
 Parallel Simulation,Application of Parallel Simulation,MTW: An Empirical Performance Study,1991,"'Lisa M. Sokol', ' Jon B. Weissman', 'Paula A. Mutchler'"
 Parallel Simulation,Application of Parallel Simulation,Parallel Simulation of Performance Petri Nets: Extending the Domain of Parallel Simulation,1991,"'George S. Thomas', 'John Zahorjan'"
@@ -2255,12 +2255,12 @@ Parallel Simulation,Optimization for Parallel Simulation,Environment Partitioned
 Parallel Simulation,Optimization for Parallel Simulation,Parallel Instance Discrete-Event Simulation Using a Vector Uniprocessor,1991,"'James F. Ohi', 'Bruno R. Preiss'"
 Parallel Simulation,Optimization for Parallel Simulation,Simultaneous Parallel Simulations of Continuous Time Markov Chains at Multiple Parameter Settings,1991,"'Philip Heidelberger', 'David M. Nicol'"
 Parallel Simulation,Performance Analysis of Parallel Simulation,Deadlock Detection and Recovery Based Distributed Simulation: A Performance Study,1991,"'Devendra Kumar', 'Saad Harous'"
-Parallel Simulation,Performance Analysis of Parallel Simulation,A Performance Model for Parallel Simulation,1991,"'Phillip M. Dickens', 'Paul F. Reynolds', ' Jr.'"
+Parallel Simulation,Performance Analysis of Parallel Simulation,A Performance Model for Parallel Simulation,1991,"'Phillip M. Dickens', 'Paul F. Reynolds  Jr.'"
 Parallel Simulation,Performance Analysis of Parallel Simulation,Measuring the Overhead in Conservative Parallel Simulations of Multicomputer Programs,1991,"'Mary L. Bailey', 'Michael A. Pagels'"
 Parallel Simulation,Theory for Parallel Simulation,Fault-Tolerant Distributed Simulation,1991,'Bojan Groselj'
 Parallel Simulation,Theory for Parallel Simulation,The Cost of Terminating Synchronous Parallel Discrete-Event Simulations,1991,"'Vasant Sanjeevan', 'Marc Abrams'"
 Parallel Simulation,Theory for Parallel Simulation,An Efficient and Scalable Parallel Algorithm for Discrete-Event Simulation,1991,"'Suhil Prasad', 'Narsingh Deo'"
-Computer and Communication Applications,Modeling Distributed Computer Systems,The Robustness of Separable Queueing Network Models,1991,"'Charles E. Knadler', ' Jr.'"
+Computer and Communication Applications,Modeling Distributed Computer Systems,The Robustness of Separable Queueing Network Models,1991,'Charles E. Knadler  Jr.'
 Computer and Communication Applications,Modeling Distributed Computer Systems,On the Performance of the Immediate Restart Concurrency Control Policy,1991,"'Abbas Asadi-Arbabi', 'Sayed A. Banawan'"
 Computer and Communication Applications,Modeling Distributed Computer Systems,A Systems Simulation Approach to Integrate Maintenance Operations,1991,"'Golgen Bengu', 'Juan Carlos Ortiz'"
 Computer and Communication Applications,Simulation of Telecommunication Networks,A Teletraffic Simulator for Circuit Switched and Signaling Intelligent Network with SS7,1991,"'Sophia Scoggins', ' Mark Scoggins', 'Jerrold Stach'"
@@ -2275,7 +2275,7 @@ Transportation Applications,Air Traffic Systems,Issues in Modelling a National N
 Transportation Applications,Simulation of Traffic Flow on Highways,Macroscopic Simulation Model for Freeway Traffic with Jams and Stop-Start Waves,1991,"'Reinhart D. K\xc3\xbchne', 'Malte B. R\xc3\xb6diger'"
 Transportation Applications,Simulation of Traffic Flow on Highways,"Integrating GIS, Simulation and Animation",1991,'Edward Lieberman'
 Transportation Applications,Simulation of Traffic Flow on Highways,Operational Planning for Electronic Toll Collection: A Unique Approach to Computer Modeling/Analysis,1991,"'John Danko', 'Victor Gulewicz'"
-Transportation Applications,Rapid Modelling Tools and Integration,Application of an Integrated Modeling Tool: United Parcel Service,1991,"'Thomas M. Swip', ' Jr.', 'Heungsoon Felix Lee'"
+Transportation Applications,Rapid Modelling Tools and Integration,Application of an Integrated Modeling Tool: United Parcel Service,1991,"'Thomas M. Swip  Jr.', 'Heungsoon Felix Lee'"
 Transportation Applications,Rapid Modelling Tools and Integration,A Rapid Railway Simulation Model Development System Incorporating Automatic Model Generation,1991,"'Kyriakos Tsiflakos', 'Stephen C. Mathewson'"
 Transportation Applications,Rapid Modelling Tools and Integration,Simulation of Fox River Locks Boat Lift,1991,'D. Brent Bandy'
 General Applications,Illustrations of the Simulation Process,Computer Simulation: An Important Tool in the Fast-Food Industry,1991,'A. K. Kharwat'
@@ -2298,7 +2298,7 @@ Analysis Methodology,Performance Estimation,Cramér-von Mises Variance Estimator
 Analysis Methodology,Performance Estimation,Average Regression-Adjusted Controlled Regenerative Estimates,1991,"'Peter A. W. Lewis', 'Richard L. Ressler'"
 Analysis Methodology,Performance Estimation,SERVO: Simulation Experiments with Random-Vector Output,1991,"'Bruce W. Schmeiser', 'Mark D. Scott'"
 Analysis Methodology,Search Techniques,Comparison of Global Search Methods for Design Optimization using Simulation,1991,"'B. Stuckman', ' G. Evans', 'M. Mollaghasemi'"
-Analysis Methodology,Search Techniques,Modifications of the Nelder-Mead Simplex Method for Stochastic Simulation Response Optimization,1991,"'Russell R. Barton', 'John S. Ivey', ' Jr.'"
+Analysis Methodology,Search Techniques,Modifications of the Nelder-Mead Simplex Method for Stochastic Simulation Response Optimization,1991,"'Russell R. Barton', 'John S. Ivey  Jr.'"
 Analysis Methodology,Search Techniques,A Projected Stochastic Approximation Algorithm,1991,'Sigrun Andradottir'
 Analysis Methodology,Analysis of Stochastic Systems,Experimental Evaluation of a Procedure for Estimating Nonhomogeneous Poisson Process Having Cyclic Behavior,1991,"'Mary A. Johnson', ' Sanghoon Lee', 'James R. Wilson'"
 Analysis Methodology,Analysis of Stochastic Systems,On Using Continuous Flow Lines for Performance Estimation of Discrete Production Lines,1991,"'Rajan Suri', 'Bor-Ruey Fu'"
