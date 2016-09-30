@@ -46,7 +46,7 @@ for year in range(initialyear, finalyear +1):
 				found = found.replace(' and ', ',')
 				found = found.split(',')
 				for i in range(0, len(found)):
-					if (found[i] == " Jr."):
+					if (found[i] == " Jr." or found[i] == " III"):
 						found[i-1] += " " + found[i]
 						found[i] = ""
 				found = filter(None, found)
@@ -64,11 +64,11 @@ for year in range(initialyear, finalyear +1):
 			except AttributeError:
 				found = ''
 
-for i in range(1, len(items)):
-	print(str(items[i]))
+#for i in range(1, len(items)):
+#	print(str(items[i]))
 
 f = open('test.csv', "wb")
 writer = csv.writer(f, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
 for item in items:
 	for name in item[4]:
-		writer.writerow(item[0:4] + [name])
+		writer.writerow(item[0:4] + [name.strip()])
