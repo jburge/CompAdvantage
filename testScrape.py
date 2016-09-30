@@ -29,14 +29,14 @@ for year in range(initialyear, finalyear +1):
 	for line in selected:
 			try:
 				found = re.search('<h2>(.*?)</h2>', str(line)).group(1)
-				category = found
+				category = found.strip()
 				subcategory = ''
 			except AttributeError:
 				found =''
 
 			try:
 				found = re.search('<h3>(.*?)</h3>', str(line)).group(1)
-				subcategory = found
+				subcategory = found.strip()
 			except AttributeError:
 				found = ''
 	#	if 'class=\"author\"' in line:
@@ -60,7 +60,7 @@ for year in range(initialyear, finalyear +1):
 			try:
 				found = re.search('blank">(.*?)</a', str(line)).group(1)
 	#			titles.append(found)
-				title = found
+				title = found.split()
 			except AttributeError:
 				found = ''
 
