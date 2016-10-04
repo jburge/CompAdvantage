@@ -60,14 +60,19 @@ for year in range(initialyear, finalyear +1):
 			try:
 				found = re.search('blank">(.*?)</a', str(line)).group(1)
 	#			titles.append(found)
-				title = found.split()
+				title = found.strip()
+			except AttributeError:
+				found = ''
+			try:
+				found = re.search('Title">(.*?) \[No', str(line)).group(1)
+				title = found.strip()
 			except AttributeError:
 				found = ''
 
 #for i in range(1, len(items)):
 #	print(str(items[i]))
 
-f = open('test.csv', "wb")
+f = open('scrapedData.csv', "wb")
 writer = csv.writer(f, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
 for item in items:
 	for name in item[4]:
