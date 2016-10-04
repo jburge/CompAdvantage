@@ -1,0 +1,48 @@
+CREATE TABLE winsim_author(
+	author_id SERIAL PRIMARY KEY,
+	name text
+);
+
+CREATE TABLE winsim_article(
+	article_id SERIAL PRIMARY KEY,
+	title text,
+	year INT,
+	subcategory_id INT,
+	category_id INT,
+	FOREIGN KEY (subcategory_id) REFERENCES winsim_subcategory(subcategory_id),
+	FOREIGN KEY (category_id) REFERENCES winsim_category(category_id)
+);
+
+CREATE TABLE winsim_category(
+	category_id SERIAL PRIMARY KEY,
+	name text
+);
+
+CREATE TABLE winsim_subcategory(
+	subcategory_id SERIAL PRIMARY KEY,
+	category_id INT,
+	name text,
+	FOREIGN KEY (category_id) REFERENCES winsim_category(category_id)
+);
+
+CREATE TABLE winsim_author_article(
+	author_id INT NOT NULL,
+	article_id INT NOT NULL,
+	FOREIGN KEY (author_id) REFERENCES winsim_author(author_id),
+	FOREIGN KEY (article_id) REFERENCES winsim_article(article_id),
+	CONSTRAINT author_article_id PRIMARY KEY (author_id, article_id)
+);
+
+CREATE TABLE winsim_category_subcategory(
+category_id INT NOT NULL,
+subcategory_id INT NOT NULL,
+FOREIGN KEY (category_id) REFERENCES winsim_category(category_id),
+FOREIGN KEY (subcategory_id) REFERENCES winsim_subcategory(subcategory_id),
+CONSTRAINT category_subcategory_id PRIMARY KEY (category_id, subcategory_id)
+);
+
+CREATE TABLE winsim_abstract(
+	article_id INT NOT NULL,
+	content text,
+	FOREIGN KEY (article_id) REFERENCES winsim_article(article_id)
+);

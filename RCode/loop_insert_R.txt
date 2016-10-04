@@ -1,0 +1,5 @@
+for ( entry in subcat)
+{
+  sql = paste("INSERT INTO scratch.jburge.winsim_subcategory (name) VALUES ('", entry, "')")
+  dbGetQuery(cnx, sql)
+}
