@@ -1,6 +1,0 @@
-GRANT ALL ON SCHEMA jburge 
-TO cng,
-	shoffman,
-	cward,
-	sharan
-WITH GRANT OPTION
