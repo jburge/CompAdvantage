@@ -1,4 +1,6 @@
-scrapedat <- read.csv("~/z/CompAnalysis/CompAdvantage/PythonScraping/test.csv",header=FALSE, stringsAsFactors = FALSE)
+library(dplyr)
+
+scrapedat <- read.csv("~/z/CompAnalysis/CompAdvantage/PythonScraping/scrapedData.csv",header=FALSE, stringsAsFactors = FALSE)
 
 colnames(scrapedat) = c("category_name", "subcategory_name", "title", "year", "author_name")
 scrapedat = unique(scrapedat)
@@ -31,10 +33,6 @@ colnames(dbdat) = c("subcategory_id", "category_id", "article_id", "author_id", 
                     "title", "year", "category_name", "subcategory_name")
 
 dbdat = dbdat[,(!names(dbdat) %in% c("subcategory_id", "category_id", "article_id", "author_id"))]
-
-alldat = rbind(scrapedat, dbdat)
-
-library(dplyr)
 
 onlyScrape = anti_join(scrapedat, dbdat)
 onlyDB = anti_join(dbdat, scrapedat)
