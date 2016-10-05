@@ -1,10 +1,15 @@
 library(dplyr)
 
-scrapedat <- read.csv("~/z/CompAnalysis/CompAdvantage/PythonScraping/scrapedData.csv",header=FALSE, stringsAsFactors = FALSE)
+### establish connection to database
 
+
+### get data from scraped data source
+scrapedat <- read.csv("~/z/CompAnalysis/CompAdvantage/PythonScraping/scrapedData.csv",header=FALSE, stringsAsFactors = FALSE)
 colnames(scrapedat) = c("category_name", "subcategory_name", "title", "year", "author_name")
 scrapedat = unique(scrapedat)
 
+
+### get data from db
 rs = dbSendQuery(cnx, "SELECT * FROM jburge.winsim_author;");
 author = dbFetch(rs)
 
@@ -24,6 +29,7 @@ rs = dbSendQuery(cnx, "SELECT * FROM jburge.winsim_category_subcategory;");
 cs = dbFetch(rs)
 
 
+### join db data back into single table
 dbdat = merge(author, aa, by = "author_id")
 dbdat = merge(dbdat, article, by =  "article_id")
 dbdat = merge(dbdat, cat, by = "category_id")
@@ -34,5 +40,7 @@ colnames(dbdat) = c("subcategory_id", "category_id", "article_id", "author_id", 
 
 dbdat = dbdat[,(!names(dbdat) %in% c("subcategory_id", "category_id", "article_id", "author_id"))]
 
+
+### check for uniques from both data sets
 onlyScrape = anti_join(scrapedat, dbdat)
 onlyDB = anti_join(dbdat, scrapedat)

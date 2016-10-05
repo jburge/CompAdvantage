@@ -1,7 +1,12 @@
 library(dplyr)
 
+### establish connection to database
+
 dat <- read.csv("~/z/CompAnalysis/CompAdvantage/PythonScraping/scrapedData.csv",header=FALSE, stringsAsFactors = FALSE)
 
+###################
+### Enter values for tables with no dependencies (foriegn keys)
+###################
 cats = unique(dat$V1)
 subcats = unique(dat$V2)
 authors = unique(dat$V5)
@@ -22,7 +27,10 @@ for(entry in authors)
   dbGetQuery(cnx, sql)
 }
 
-
+###################
+### Insert values into article table
+### Use the Flat csv rows (minus author) as a unique identifier
+###################
 articles = dat[,(!names(dat) %in% "V5")]
 colnames(articles) = c("category", "subcategory", "title", "year")
 articles = unique(articles)
@@ -47,6 +55,10 @@ for(i in 1:nrow(articles))
               articles[i,1], "$$,$$", articles[i,2], "$$,$$", articles[i,3], "$$,$$", articles[i,4], "$$)", sep = "")
   dbGetQuery(cnx, sql)
 }
+
+###################
+### Get id's of articles for author article mapping table
+###################
 
 rs = dbSendQuery(cnx, "SELECT * FROM jburge.winsim_article;");
 article = dbFetch(rs)
@@ -75,6 +87,10 @@ for(i in 1:nrow(aamapping))
   sql = paste("INSERT INTO scratch.jburge.winsim_author_article (article_id, author_id) VALUES ($$", aamapping[i,1], "$$,$$", aamapping[i,2], "$$)", sep = "")
   dbGetQuery(cnx, sql)
 }
+
+###################
+### Insert pairs for category, subcategory mapping table
+###################
 
 csmapping = as.data.frame(cbind(dat$category, dat$subcategory), stringsAsFactors = FALSE, head(FALSE))
 colnames(csmapping) = c("category", "subcategory")
