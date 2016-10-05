@@ -4,3 +4,7 @@ TO cng,
 	cward,
 	sharan
 WITH GRANT OPTION
+
+GRANT ALL ON TABLE *table_name*
+TO *usernames (comma delimited)*
+WITH GRANT OPTION
