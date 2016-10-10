@@ -36,8 +36,6 @@ colnames(edges)[4] = "r1"
 edges = inner_join(edges, author[,c(1,4)], by = c("a2" = "author_id") )
 colnames(edges)[5] = "r2"
 
-edgesimple  = edges[edges$nrow != 1,]
-
 #make a matrix for the graph
 authormat = matrix(0, ncol = nrow(author), nrow = nrow(author))
 for(i in 1:nrow(authormat))
@@ -47,12 +45,16 @@ for(i in 1:nrow(authormat))
 for(i in 1:nrow(edges)){
   insertValueMatrix(edges$r1[i], edges$r2[i], edges$nrow[i])
 }
+#remove authors with no collaborators
+csum = apply(authormat, 2, sum)
+test = csum > 0
+cleanmat = authormat[test ,test]
 
 #normalize
   #for each column normalize to sum to 1
-normmat = authormat %*% diag(1/colSums(authormat))
+normmat = cleanmat %*% diag(1/colSums(cleanmat))
 e = 2
-r = 5
+r = 2.4
 toleranceForConvergence = .0001
 m = normmat
 while(TRUE)
@@ -70,6 +72,7 @@ while(TRUE)
   print(maxdivergence)
 }
 
+### draw conclusions from the resulting matrix
 nonzero = as.data.frame(cbind(row(m)[m!=0],col(m)[m!=0]))
 nonzero = nonzero[order(nonzero$V1),]
 
@@ -83,3 +86,10 @@ for(i in 1:nrow(author))
 clusters = unique(clusters)
 c1 = clusters[lengths(clusters) > 1]
 t = table(sapply(clusters, length, simplify = TRUE))
+
+#determine effectiveness of clusters
+getEdgesInCluster = function(x){
+  s = sum(edges[edges$r1 %in% c(x) & edges$r2 %in% c(x), edges$nrow])
+  return(s)
+}
+getEdgesInCluster(clusters[[2]])
