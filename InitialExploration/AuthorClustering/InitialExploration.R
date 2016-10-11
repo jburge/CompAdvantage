@@ -18,8 +18,8 @@ getNumArticles = function(x){
   
 }
 insertValueMatrix = function(x1, x2, y){
-  authormat[x1, x2] <<- y
-  authormat[x2, x1] <<- y
+  authormat[x1, x2] <<- y*y
+  authormat[x2, x1] <<- y*y
 }
 
 #count each authors total number of articles
@@ -53,8 +53,8 @@ cleanmat = authormat[test ,test]
 #normalize
   #for each column normalize to sum to 1
 normmat = cleanmat %*% diag(1/colSums(cleanmat))
-e = 2
-r = 2.4
+e = 2.4
+r = 2.8
 toleranceForConvergence = .0001
 m = normmat
 while(TRUE)
@@ -63,8 +63,8 @@ while(TRUE)
   expand = m %^% e
   
   #inflate
-  t = expand %^% r
-  inflate = t %*% diag(1/colSums(t))
+  num = expand ^ r
+  inflate = num %*% diag(1/colSums(num))
   maxdivergence = max(abs(m - inflate))
   m = inflate
   if(maxdivergence < toleranceForConvergence)
@@ -83,13 +83,30 @@ for(i in 1:nrow(author))
   temp = nonzero[nonzero$V1 == i,2]
   clusters[[i]] = sort(temp)
 }
-clusters = unique(clusters)
-c1 = clusters[lengths(clusters) > 1]
 t = table(sapply(clusters, length, simplify = TRUE))
+
+clusters = unique(clusters)
+clusters = clusters[order(sapply(clusters,length),decreasing=T)]
+c = clusters[lengths(clusters) > 1]
+t = table(sapply(c, length, simplify = TRUE))
 
 #determine effectiveness of clusters
 getEdgesInCluster = function(x){
-  s = sum(edges[edges$r1 %in% c(x) & edges$r2 %in% c(x), edges$nrow])
+  s = sum(edges[(edges$r1 %in% x) & (edges$r2 %in% x), 3])
   return(s)
 }
-getEdgesInCluster(clusters[[2]])
+getEdgesTouchingCluster = function(x){
+  s = sum(edges[(edges$r1 %in% x) | (edges$r2 %in% x), 3])
+  return(s)
+}
+clusterEdges = lapply(c[], getEdgesInCluster)
+clusterFringe = lapply(c[], getEdgesTouchingCluster)
+clusterEdges = unlist(x = clusterEdges)
+clusterFringe = unlist(clusterFringe)
+t
+table(clusterFringe)
+table(clusterEdges)
+table(clusterFringe - clusterEdges)
+percentInclusion = clusterEdges / clusterFringe
+percentInclusion = percentInclusion[!percentInclusion %in% c(0, 1)]
+percentInclusion
